@@ -1,0 +1,204 @@
+data_house
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bathrooms,Kitchen,Lounge,Dining Room,Entrance Hall,Garage,Parking,Street Address
+110272056,House,Freestanding,Suburban,05 August 2021,R 600,No,4, , , , ,2, , , , , ,10," 28 Wasabi, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Nearby Public Transport
+110271443,House,05 August 2021,240 m²,3,1,1,1,1,Carport,"Bus, Train, Minibus Taxi"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Lounges,Garage,Parking
+110269927,House,05 August 2021,4,2,1,1,1,2
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathroom,Kitchen,Garage,Parking,Street Address
+110269433,House,04 August 2021,240 m²,3,"Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Curtain Rails, Double Bed","Tiled Floors, Curtain Rails, Single Bed",Separate Toilet,"Stove (Oven & Hob), Extractor Fan, Washing Machine Connection, Tiled Floors, Built-in Cupboards",Roll up,Carport," Mabopne-X , Mabopane"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Gardens
+110269044,House,04 August 2021,3,1,1,1,1,1,1,1
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Lounge,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110268829,House,"New Development, Bungalow",Metropolitan,04 August 2021,500 m²,R 234,Yes,2,"Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Bath, Curtain Rails, Toilet","Stove, Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails",Traditional,Above Road,Asbestos,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Safe","Bus, Minibus Taxi",No,No,No," MABOPANE, Mabopane"
+Listing Number,Type of Property,Listing Date
+110267891,House,04 August 2021
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Coverage,Bedrooms,Bathrooms,Kitchens,Parking,Gardens,Standalone Building,Security,Nearby Public Transport,Internet Access,Wheelchair Accessible,Backup Water,Street Address
+110235425,House,26 July 2021,290 m²,70 m²,R 200,Yes,Yes,24 %,3,1,1,1,1,Yes,1,"Bus, Train, Minibus Taxi",Fibre,Yes,Yes," Mabopane Sunvelly, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bathrooms,Kitchens,Parking,Gardens,Roof,Standalone Building,Security,Street Address
+110235396,House,26 July 2021,290 m²,70 m²,R 200,Yes,24 %,3,1,1,1,1,Tile,Yes,Burglar Bars," Mabopane sunvelly, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Parking,Garden,Street Address
+110244159,House,28 July 2021,300 m²,60 m²,No,Yes,2,1,1,1,1,Yes,"12 nkuna street, Mabopane"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Office/study,Lounge,Garage,Style,Facing,Roof,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110220365,House,"New Development, Bungalow, Freestanding",Metropolitan,21 July 2021,350 m²,R 300,Yes,3,"Tiled Floors, Curtain Rails, Double Bed","Tiled Floors, Curtain Rails, King Bed","Tiled Floors, Curtain Rails, Double Bed",2,"Tiled Floors, Basin, Shower, Curtain Rails, Toilet","Tiled Floors, Basin, Curtain Rails, Toilet","Stove, Tiled Floors, Curtain Rails, Built-in Cupboards, Under Counter Oven, Hob","Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails","Roll up, Single, Covered","Modern, Traditional","North, Street Front",Tile,Yes,"Totally Fenced, Security Gate, Burglar Bars, Perimeter Wall, Safe","Bus, Minibus Taxi",No,No,No," Lebanon, Mabopane, Mabopane"
+
+
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Lounge,Dining Room,Garage,Parking,Garden,Street Address
+110226424,House,New Development,23 July 2021,258 m²,R 439,No,3, , , ,1, , , , ,1,Yes," 12311 Mabopane unit X, Mabopane"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Lounge,Family/TV Room,Garage,Garage 1,Garage 2,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Street Address
+110209705,House,"New Development, Bungalow",Metropolitan,19 July 2021,500 m²,R 236,Yes,3,"Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed",3,"Tiled Floors, Basin, Guest Toilet, Bath, Curtain Rails","Tiled Floors, Basin, Main en Suite, Bath, Curtain Rails, Toilet","Tiled Floors, Separate Toilet, Guest Toilet, Curtain Rails, Toilet","Fridge, Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails, Open Plan","Tiled Floors, Curtain Rails, Open Plan",2,"Double, Covered","Double, Covered","Open Plan, Traditional",Above Road,Tile,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Safe"," ODINBURG GARDENS, Odinburg Gardens"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathroom,Kitchen,Lounge,Parking,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110208225,House,"New Development, Bungalow",Metropolitan,19 July 2021,300 m²,R 236,Yes,3,"Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Basin, Bath, Curtain Rails, Toilet","Stove, Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails, Open Plan","Carport, Shade net covered","Open Plan, Traditional",Above Road,Tile,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Closed Circuit TV, Burglar Bars, Safe","Bus, Minibus Taxi",No,No,No," ODINBURG GARDENS , Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Parking,Gardens,Security,Nearby Public Transport,Internet Access,Wheelchair Accessible,Backup Water,Street Address
+110235470,House,26 July 2021,290 m²,R 200,3,1,1,1,1,Burglar Bars,"Bus, Train, Minibus Taxi",Fibre,Yes,Yes," Mabopane Sunvelly, Mabopane"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Bathroom 4,Kitchen,Lounge,Garage,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110190074,House,"New Development, Bungalow",Metropolitan,12 July 2021,300 m²,R 218,Yes,5,"Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed",4,"Tiled Floors, Basin, Bath, Curtain Rails, En suite, Toilet","Tiled Floors, Basin, Guest Toilet, Bath, Curtain Rails, Toilet","Tiled Floors, Curtain Rails, Toilet","Tiled Floors, Separate Toilet, Basin, Guest Toilet, Bath, Curtain Rails","Stove, Washing Machine Connection, Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails","Single, Covered","Modern, Traditional",Above Road,Tile,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Safe","Bus, Minibus Taxi",Yes,No,No," MABOPANE, Mabopane"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Bedrooms,Bathrooms,Bathrooms,Rooms,Style,Facing,Roof,Floor,Flatlet,Street Address
+110232932,House,Suburban,26 July 2021,310 m²,2,1,Basin,Blinds,Modern,North,"Tile, Slate, Insulation",Tiled Floors,Yes,"4633 Darkey Africa, Winterveldt"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Dining Room,Family/TV Room,Garage,Outbuilding,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110178823,House,"New Development, Bungalow, Freestanding",Metropolitan,08 July 2021,300 m²,R 250,Yes,3,"Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed",3,"Tiled Floors, Basin, Bath, Curtain Rails, Bath, Toilet and Basin, Toilet","Tiled Floors, Basin, Curtain Rails, Toilet","Tiled Floors, Curtain Rails, Toilet","Stove, Tiled Floors, Curtain Rails, Built-in Cupboards, Under Counter Oven, Hob","Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails","Roll up, Single, Covered","Storeroom, Cottage","Modern, Traditional",West,Tile,Brick,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Perimeter Wall, Safe","Bus, Minibus Taxi",No,No,No," Mabopane, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Garden
+110147605,House,30 June 2021,450 m²,Yes,5,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,No Transfer Duty,Rates and Taxes,Pets Allowed,Coverage,Roof,Standalone Building
+110235381,House,26 July 2021,290 m²,70 m²,Yes,R 200,Yes,24 %,Tile,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Flatlet
+110264036,House,03 August 2021,1 200 m²,R 200,Yes,Yes,3,2,1,1,1,3,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Standalone Building,Security,Street Address
+110235409,House,26 July 2021,290 m²,70 m²,R 200,Yes,Yes,24 %,3,1,1,1,1,Yes,Burglar Bars," Mabopane Sunvelly, Mabopane"
+
+
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Office/study,Lounge,Parking,Parking 1,Parking 2,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+110169068,House,"New Development, Bungalow, Freestanding",Metropolitan,06 July 2021,500 m²,R 250,No,3,"Tiled Floors, Curtain Rails, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed",3,"Tiled Floors, Basin, Main en Suite, Bath, Curtain Rails, Bath, Toilet and Basin, Toilet","Tiled Floors, Curtain Rails, Toilet","Tiled Floors, Basin, Bath, Curtain Rails","Stove, Tiled Floors, Curtain Rails, Built-in Cupboards, Under Counter Oven, Hob","Parquet Floors, Curtain Rails, Open Plan, Linen Room","Tiled Floors, Curtain Rails, Open Plan",2,"Carport, Double","Carport, Secure Parking, Double","Modern, Traditional",North,Tile,"Plaster, Face-brick",Steel ,Yes,"Security Gate, Burglar Bars, Perimeter Wall, Safe","Bus, Train, Minibus Taxi",No,No,No," Mabopane, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Other,Garage,Security,Nearby Public Transport,Backup Water,Street Address
+110149035,House,30 June 2021,1 190 m²,R 400,6,6,1,2,1,"Bus, Minibus Taxi",Yes," 119 Block A , Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Garage,Street Address
+110144752,House,29 June 2021,280 m²,R 220,No,2,1,1,1,1,"101 Block B, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Domestic Rooms,Reception Rooms,Lounge,Garage,Parking,Parking,Garden,Flatlet
+110249839,House,30 July 2021,929 m²,R 215,Yes,3,1,1,3,3 Lounge,4,4,Uncovered parking,Yes,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Security
+110193809,House,13 July 2021,219 m²,R 400,2,1,1,1,1,Totally Fenced
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Other,Garage,Parking,Gardens,Special Features
+110256507,House,02 August 2021,264 m²,90 m²,R 400,Yes,34 %,3,2,1,1,1,Patio,2,2,1,"Satellite Dish, Totally Walled"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bedrooms,Bedrooms,Bathrooms,Kitchen,Office/studies,Domestic Rooms,Lounges,Dining Rooms,Family/TV Rooms,Garage,Outbuilding,Security,Special Features
+110236631,House,27 July 2021,603 m²,266 m²,R 450,Yes,44 %,3,,Walk-in-closet,2,Laundry,1,1,1,1,1,2,"Staff Quarters/Domestic Rooms, Storeroom",Totally Fenced,Satellite Dish
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Garage,Parking,Gardens
+110252909,House,31 July 2021,350 m²,R 200,3,2,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Parking,Garden,Street Address
+110121096,House,22 June 2021,400 m²,58 m²,Yes,Yes,2,1,1,1,Shade net covered,Yes,"2 Slovo road, Winterveldt"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Street Address
+110097154,House,15 June 2021,500 m²,90 m²,No,3,1,1,1,1,1,1,2,1,Yes,"1 Molepo road, Tsebe"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,No Transfer Duty,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage,Garden
+110223489,House,22 July 2021,418 m²,100 m²,Yes,3,2,1,1 Lounge,2,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Gardens,Security,Nearby Public Transport
+110186780,House,12 July 2021,400 m²,R 300,3,2,1,1,1,1,1,"Security Gate, Burglar Bars, Perimeter Wall","Bus, Minibus Taxi"
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Flatlet
+110231997,House,26 July 2021,R 450,No,2,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Gardens,Facing,Standalone Building,Security,Nearby Public Transport,Internet Access,Backup Water,Street Address
+110235412,House,26 July 2021,290 m²,70 m²,R 200,Yes,Yes,24 %,3,1,1,1,1,1,West,Yes,Burglar Bars,"Bus, Train, Minibus Taxi",Fibre,Yes," Mabopane sunvelly, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Garden,Street Address
+110020989,House,26 May 2021,332 m²,70 m²,R 350,Yes,5,4,Yes," Block A Mabopane Unit C, Mabopane"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Parking
+109803235,House,29 March 2021,3,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Garage,Parking
+110261986,House,03 August 2021,216 m²,3,2,1,1,Double,1
+Listing Number,Type of Property,Listing Date,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Dining Room,Family/TV Room,Parking
+110226396,House,23 July 2021,3,"Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails, Built-in Cupboards",2,"Tiled Floors, Bath, Shower, Toilet and Basin","Tiled Floors, Bath, Toilet and Basin","Stove (Oven & Hob), Granite Tops, Tiled Floors, Built-in Cupboards","Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails",Carport
+Listing Number,Type of Property,Listing Date,Erf Size
+110207309,House,18 July 2021,444 m²
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage,Parking,Parking,Garden
+110150752,House,01 July 2021,300 m²,R 400,3,2,2,2 Lounge,1,1,Covered parking,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Bedrooms,Bathrooms,Reception Rooms,Lounge,Parking,Parking
+110165264,House,05 July 2021,343 m²,120 m²,Yes,3,2,1,1 Lounge,1,Covered parking
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Furnished,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage
+110158016,House,02 July 2021,204 m²,R 200,Yes,2,1,1,1 Lounge,1
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Lounge,Dining Room,Garage,Garage 1,Garage 2,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Street Address
+109230167,House,"New Development, Bungalow",Metropolitan,14 October 2020,350 m²,R 250,Yes,3,"Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Queen Bed",2,"Tiled Floors, Basin, Bath, Curtain Rails, Toilet","Tiled Floors, Basin, Bath, Curtain Rails, Toilet","Stove (Oven & Hob), Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails",2,Double,Double,Ultra Modern,South,Tile,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Safe","Bus, Minibus Taxi"," MABOPANE X , Mabopane"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Rates and Taxes,Age,Pets Allowed,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Size of Outbuildings,Style,Facing,Roof,Wall,Window,Standalone Building,Nearby Public Transport,Internet Access,Wheelchair Accessible,Street Address
+110230082,House,"Smallholding, Freestanding",Metropolitan,24 July 2021,330 m²,45 m²,R 64,9,Yes,13 %,2,1,1,1,4,330 m²,Traditional,Level Road,Tile,Plaster,Steel ,No,"Bus, Minibus Taxi","ADSL, Satellite",Yes," 21 Mangope Road, Slovo"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Parking,Street Address
+110164230,House,05 July 2021,320 m²,R 500,3,1,1,1," 7958 ODI staidum street mapobane, Morula View"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Lounge,Parking,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water,Street Address
+109334362,House,"New Development, Bungalow",Metropolitan,10 November 2020,300 m²,R 125,Yes,2,"Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Curtain Rails, Queen Bed","Tiled Floors, Basin, Bath, Curtain Rails, Toilet","Stove (Oven & Hob), Fridge, Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails","Carport, Secure Parking, Double",Modern,East,Zinc,Plaster,Steel ,Yes,"Totally Fenced, Security Gate, Burglar Bars, Perimeter Wall, Safe","Bus, Minibus Taxi",No,No,No," LEBANON, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Coverage,Bedrooms,Bathrooms,Kitchen,Lounges,Entrance Halls,Gardens,Special Features
+110173153,House,07 July 2021,527 m²,56 m²,R 167,10 %,4,1,Laundry,1,1,1,"Satellite Dish, Totally Walled"
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Dining Room,Parking,Security,Special Featuress,Special Features 1,Special Features 2
+110206655,House,17 July 2021,420 m²,3,Bedroom 3 with tiled floors,Bedroom 2 with tiled floors,Main bedroom with tiled floors,1,Kitchen with tiled floors,Dining room with tiled floors,1,Security including security gates,2,Tiled roof,Plastered walls
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Special Features
+110163947,House,05 July 2021,300 m²,R 150,Yes,3,2,1,1,1,2,Totally Walled
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Reception Rooms,Street Address
+110149409,House,01 July 2021,450 m²,2,1,1,"6365 asihlalisane street, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Lounge,Garage,Street Address
+110237011,House,27 July 2021,200 m²,No,3, , , ,2, , , ," 17/61 Slovo gardens, Mabopane"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Parking,Gardens
+110259691,House,03 August 2021,3,1,1,2,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Flatlet,Street Address
+109927557,House,03 May 2021,800 m²,92 m²,R 150,Yes,Yes,3,1,1,1,1,2,Yes,"116 LEHUTUTU, Tsebe"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Lounge,Dining Room,Parking
+110111214,House,20 June 2021,929 m²,R 300,3,1,1,1,2
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Parking,Nearby Public Transport,Generator,Backup Water
+110202215,House,15 July 2021,R 200,2,1,1,1,"Bus, Minibus Taxi",No,No
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Dining Room,Parking
+110244451,House,28 July 2021,300 m²,No,2, , ,1, , , ,4
+Listing Number,Type of Property,Listing Date,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Lounges,Dining Rooms,Garage,Parking
+110211932,House,19 July 2021,Yes,3,2,1,1,2,2,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Parking 1,Parking 2,Gardens,Special Features
+110129737,House,24 June 2021,369 m²,R 450,Yes,3,2,1,1,2,Carport,Carport,1,Totally Walled
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Street Address
+109986479,House,18 May 2021,280 m²,65 m²,Yes,3,2,1,1,1,"Block S Mabopne, Mabopane"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Gardens
+110141054,House,29 June 2021,1 m²,R 300,2,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens
+110242915,House,28 July 2021,2,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Lounge,Dining Room,Family/TV Room,Rooms,Garage,Garden,Special Feature
+110098172,House,16 June 2021,900 m²,R 800,Yes,4,2,"Main en Suite, Guest Toilet",1,Pantry,1,1,1,Patio,2,Yes,"Built in Braai, Satellite Dish, Paveway"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens
+110241939,House,28 July 2021,3,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Bedrooms,Bathrooms,Lounge,Garage,Parking,Security
+110032504,House,29 May 2021,350 m²,70 m²,R 280,3,2,1,1,1,"Electric Gate, Burglar Bars"
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Special Levy,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Garage,Parking,Gardens
+110220401,House,21 July 2021,300 m²,R 100,R 100,R 100,3,2,1,1,1,1,1
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Rates and Taxes,Age,Pets Allowed,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Size of Outbuildings,Facing,Roof,Wall,Window,Nearby Public Transport,Internet Access,Wheelchair Accessible,Street Address
+110097102,House,"Smallholding, Freestanding",15 June 2021,370 m²,45 m²,R 64,14,Yes,12 %,2,1,1,1,370 m²,South,Iron,Plaster,Steel ,"Bus, Train, Minibus Taxi","Fibre, Satellite",Yes," Slovo ext 3, Slovo"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Lounges
+110193596,House,13 July 2021,301 m²,R 120,2,1,1,1
+Listing Number,Type of Property,Listing Date,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking
+110211817,House,19 July 2021,Yes,3,1,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounge,Garage,Special Feature
+110098175,House,16 June 2021,R 430,Yes,2,1,1,1,1,"Satellite Dish, Paveway"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Parking,Gardens
+110259697,House,03 August 2021,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Family/TV Rooms,Parking,Gardens
+110177134,House,08 July 2021,2,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Pets Allowed,Bedrooms,Bedrooms,Bedrooms,Lounges,Lounges,Lounges,Garage,Parking,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible
+110165624,House,06 July 2021,R 500,Yes,3,,"Tiled Floors, Air Conditioner, Built-in Cupboards, King Bed",2,,"Tiled Floors, Air Conditioner, Open Plan",1,1,Yes,"Electric Garage, Electric Gate, Alarm System, Burglar Bars, Electric fencing, Perimeter Wall","Bus, Minibus Taxi",Yes
+Listing Number,Type of Property,Listing Date
+110209099,House,19 July 2021
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchen,Reception Rooms,Lounge,Garage,Parking,Parking,Flatlet
+110087333,House,13 June 2021,316 m²,R 133,Yes,Yes,4,2,"NEWLY INSTALLED KITCHEN FITTINGS WITH GRANITE TOPS  A NEW 4 PLATE STOVE 
+GLOSS KITCHEN UNIT",1,1 Lounge,1,1,Uncovered parking,Yes
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Age,Pets Allowed,Coverage,Bedrooms,Bathrooms,Parking,Gardens,Style,Facing,Roof,Wall,Window,Standalone Building,Security
+110127338,House,Freestanding,24 June 2021,576 m²,576 m²,2021,Yes,100 %,5,3,5,1,Open Plan,"North, Below Road",Zinc,Plaster,Steel ,Yes,1
+
+
+Listing Number,Type of Property,Lifestyle,Listing Date,Bedrooms,Lounge,Security
+110034301,House,Security Complex,31 May 2021,2,1,Burglar Bars
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 1,Bathroom 2,Bathroom 2,Kitchen,Kitchen,Dining Room,Dining Room,Family/TV Room,Family/TV Room,Parking,Parking 1,Parking 1,Parking 2,Parking 2,Secure Parking
+110028264,House,28 May 2021,280 m²,R 650,3,Bedroom 3,"Tiled Floors, Curtain Rails",Bedroom 2,"Tiled Floors, Curtain Rails",Bedroom 1,"Open Plan, Tiled Floors, Curtain Rails, Telephone Port, Walk-in-closet",2,Bathroom 1,"Basin, Bath, Toilet",Bathroom 2,"Basin, Bath, Toilet",Kitchen,"Stove, Stove (Oven & Hob)",Dining Room,"Tiled Floors, Curtain Rails",Family T V Room,"Tiled Floors, Curtain Rails, Telephone Port",2,Parking 1,"Carport, Secure Parking",Parking 2,"Visitors Parking, Shade net covered",1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Security
+110169533,House,06 July 2021,338 m²,40 m²,R 70,Yes,11 %,2,1,1,1,Totally Fenced
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Lounge,Garage,Security
+110066058,House,08 June 2021,600 m²,5,"Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed",3,"Tiled Floors, Main en Suite, Curtain Rails","Tiled Floors, Curtain Rails, Bath, Toilet and Basin","Tiled Floors, Curtain Rails, Bath, Toilet and Basin","Stove, Stove (Oven & Hob), Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails",Double,1
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Age,Pets Allowed,Furnished,Coverage,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Size of Outbuildings,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Street Address
+110012638,House,"Smallholding, Freestanding",24 May 2021,430 m²,45 m²,13,Yes,Yes,10 %,2,1,1,1,7,430 m²,A-frame,Street Front,Tile,Plaster,Steel ,Yes,"Totally Fenced, Burglar Bars, Safe","Train, Minibus Taxi"," Mabopane slovo, Slovo"
+Listing Number,Type of Property,Listing Date
+110161394,House,05 July 2021
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bathrooms,Bathroom 1,Bathroom 2,Domestic Bathrooms,Security,Nearby Public Transport
+110116862,House,22 June 2021,420 m²,4,"Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed","Tiled Floors, Curtain Rails, Built-in Cupboards, Double Bed",2,"Tiled Floors, Curtain Rails, Bath, Toilet and Basin","Tiled Floors, Domestic Bathroom, Curtain Rails",1,walls and gate,"Bus, Minibus Taxi"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Rates and Taxes,Age,Pets Allowed,Coverage,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Lounge,Dining Room,Garage,Parking,Gardens,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Nearby Public Transport,Internet Access,Wheelchair Accessible,Generator,Backup Water
+107382024,House,Freestanding,07 May 2021,268 m²,85 m²,R 280,2021,Yes,31 %,3,"Tiled Floors, Built-in Cupboards",Tiled Floors,"Tiled Floors, Built-in Cupboards",2,"Tiled Floors, Bath, Toilet and Basin","Tiled Floors, Bath, Toilet and Basin","Granite Tops, Tiled Floors, Built-in Cupboards",Tiled Floors,Tiled Floors,1,4,1,Modern,"West, Level Road",Tile,Plaster,Steel ,Yes,Perimeter Wall,"Bus, Minibus Taxi",Fibre,Yes,No,No
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Dining Room
+110106839,House,18 June 2021,329 m²,2,"Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Curtain Rails, Built-in Cupboards","Tiled Floors, Blinds, Bath, Toilet and Basin","Stove, Extractor Fan, Tiled Floors, Curtain Rails, Built-in Cupboards",Tiled Floors
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Nearby Public Transport,Wheelchair Accessible
+110245092,House,29 July 2021,350 m²,3,2,1,1,1,1,"Bus, Minibus Taxi",Yes
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Family/TV Room,Security
+110114095,House,21 June 2021,50 m²,R 150,2,"Tiled Floors, Blinds, Curtain Rails, Double Bed","Tiled Floors, Blinds, Curtain Rails, Queen Bed","Tiled Floors, Blinds, Curtain Rails, Bath, Toilet and Basin","Stove, Tiled Floors, Blinds, Curtain Rails","Tiled Floors, Blinds, Curtain Rails","Totally Fenced, Burglar Bars"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Family/TV Room,Parking,Wall,Window,Standalone Building,Security
+110083317,House,Freestanding,11 June 2021,303 m²,Yes,2,"Tiled Floors, Curtain Rails, Double Bed","Tiled Floors, Curtain Rails, Double Bed","Tiled Floors, Curtain Rails, Bath, Toilet and Basin","Open Plan, Stove, Fridge, Tiled Floors, Curtain Rails","Tiled Floors, Curtain Rails","Carport, Secure Parking, Single",Plaster,Steel ,Yes,"Totally Fenced, Burglar Bars"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedroom,Reception Rooms,Lounge
+109985209,House,17 May 2021,300 m²,R 150,1,1,1 Lounge
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Lounge,Dining Room,Entrance Hall,Garage,Parking,Street Address
+110040539,House,Single Storey,Suburban,01 June 2021,260 m²,R 450,No,3, , , ,2, , , , , ,5," 17 Wasabi, Mabopane"
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Lounges
+110072135,House,09 June 2021,R 439,2,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes
+108595168,House,10 June 2021,445 m²,R 150
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge
+109928636,House,03 May 2021,280 m²,R 280,3,2,2,2 Lounge
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedroom,Bathrooms,Reception Rooms,Lounge,Parking,Parking
+109928508,House,03 May 2021,280 m²,R 250,1,1,1,1 Lounge,1,Covered parking
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Gardens,Special Features
+109999522,House,20 May 2021,452 m²,R 150,R 800,Yes,3,1,1,1,1,Carport,1,"Satellite Dish, Totally Walled"
