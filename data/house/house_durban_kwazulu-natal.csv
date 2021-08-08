@@ -1,0 +1,481 @@
+data_house
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Furnished,Bedroom,Bathrooms,Rooms,Parking,Special Feature,Street Address
+110274477,Apartment / Flat,05 August 2021,72 m²,R 16 667,Yes,1,1,Air Conditioner,1 Carport,Lifts," Snell Parade, 95 / Goldensands, North Beach"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Domestic Rooms,Garage,Outbuildings,Outbuilding 1,Outbuilding 2,Style,Facing,Roof,Wall,Special Features
+110274451,House,05 August 2021,694 m²,R 850,Yes,3,"Wooden Floors, Blinds, Built-in Cupboards","Wooden Floors, Blinds, Built-in Cupboards","Wooden Floors, Blinds, Built-in Cupboards",3,"Tiled Floors, Main en Suite, Shower, Blinds, Double Basin, Toilet","Tiled Floors, Basin, Blinds, Double Basin, Toilet","Tiled Floors, Basin, Bath, Blinds, Toilet","Eye Level Oven, Extractor Fan, Tiled Floors, Blinds, Built-in Cupboards, Hob",1,Single,2,Staff Quarters/Domestic Rooms,Teenpad,Contemporary,Below Road,Tile,Plaster,Balcony
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Parking,Parking,Parking,Style,Facing,Window,Floor,Security,Temperature Control,Temperature Control
+110274447,Apartment / Flat,05 August 2021,1 670 m²,97 m²,R 9 485,No,2,1,"Bath, Shower",Laundry,2,Parking features,Carport,Contemporary,"East, Sea",Aluminium,Parquet Floors,"Electric Gate, Intercom, Electric fencing, Perimeter Wall",Temperature control features,Cooling Fans
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Lounges,Parking
+110274137,Apartment / Flat,05 August 2021,66 m²,R 12 106,R 1 550,R 522,No,1.5,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Garden
+110273934,Apartment / Flat,05 August 2021,101 m²,R 13 812,R 2 261,R 1 100,No,3,1.5,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Garden,Street Address
+110273580,Apartment / Flat,05 August 2021,74 m²,74 m²,R 9 459,R 1 064,R 383,No,1.5,1,1,1,1,Yes,"87 Margaret Mncandi Avenue Avenue, Bayhead"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking
+110273522,House,05 August 2021,777 m²,R 814,No,4,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounges,Parking,Gardens,Pools,Security,Special Features
+110273481,Apartment / Flat,05 August 2021,R 600,3,1,"Open Plan, Extractor Fan, Under Counter Oven, Hob",1,Carport,1,1,"Security Gate, Alarm System, 24 Hour Response, Burglar Bars","Built in Braai, Satellite Dish"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking
+110273353,Apartment / Flat,05 August 2021,57 m²,R 25 439,R 3 500,R 900,No,2,2,1,1,1,1
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed
+110272898,House,05 August 2021,418 m²,150 m²,No
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounge,Security,Security
+110272447,Apartment / Flat,05 August 2021,2 800 m²,90 m²,R 6 889,R 1 200,R 120,3,1,1,1,1,"Security Gate, Intercom, Closed Circuit TV, 24 Hour Access, Guard House, Electric fencing"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedroom,Bathroom,Kitchen,Reception Rooms,Other,Parking,Security,Special Features
+110272224,Apartment / Flat,05 August 2021,39 m²,R 17 436,R 1 064,R 395,Main bedroom with built-in cupboards and tiled floors,"Bathroom with basin, shower, toilet and tiled floors","Kitchen with tiled floors, granite tops, hob, under counter oven and washing machine",1,Living room with tiled floors,1,"Security including electric fence, intercom and security gates",Aluminium windows
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Lounge,Other,Garden,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Street Address
+110271782,House,05 August 2021,1 062 m²,3,"Bedroom 3 with en-suite bathroom, ceiling fan, curtain rails, built-in cupboards and tiled floors","Bedroom 2 with ceiling fan, curtain rails, built-in cupboards and tiled floors","Main bedroom with en-suite bathroom, air conditioner, curtain rails, built-in cupboards and tiled floors",2,"Bathroom 1 with basin, shower, toilet and tiled floors","Bathroom 2 with basin, shower, toilet and tiled floors","Kitchen with tiled floors, granite tops, extractor fan, hob and stove",Formal lounge with tiled floors,Living room with tiled floors,Landscaped garden,"Security including automatic gates, burglar bars and security gates",4,Tiled roof,Plastered walls,Aluminium windows,Fence boundary,"21 Heron Way, Yellowwood Park"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchen,Office,Domestic Rooms,Lounge,Dining Room,Rooms,Garage,Parking,Pool,Security,Special Feature
+110271582,House,05 August 2021,320 m²,R 2 298,4,3,"Guest Toilet, En suite",Scullery,1,1,1,1,Patio,2,1,Yes,"Electric Garage, Electric Gate, Security Gate, Alarm System","Built in Braai, Balcony"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Flatlet
+110271541,House,05 August 2021,930 m²,R 1 263,Yes,4,2,1,1,1,1,3,3,Yes,Yes,Yes
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms
+110271501,Apartment / Flat,05 August 2021,1,1,1,1,1
+Listing Number,Type of Property,Lifestyle,Listing Date,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens
+110271117,Apartment / Flat,Security Complex,05 August 2021,2,1,"Basin, Bath, Toilet",1,Stove
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Garden,Street Address
+110263371,Apartment / Flat,05 August 2021,102 m²,R 14 216,R 1 370,R 600,No,Yes,2,2,1,1,1,1,Yes,"97 O R Tambo Parade, South Beach"
+Listing Number,Type of Property,Listing Date,Levies,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchens,Garage,Security
+110271008,Apartment / Flat,05 August 2021,R 1 200,R 360,2,"Built-in Cupboards, Double Bed","Built-in Cupboards, Single Bed","Bath, Toilet and Basin",1,Single,"Totally Fenced, Electric Gate, Security Gate"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Lounge,Dining Room,Parking
+110270991,Apartment / Flat,05 August 2021,2,"Tiled Floors, Built-in Cupboards","Tiled Floors, Built-in Cupboards","Tiled Floors, Shower, Toilet","Tiled Floors, Built-in Cupboards","Tiled Floors, Open Plan","Tiled Floors, Open Plan",1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Rates and Taxes,Zoning,Bedroom,Bedroom,Bathrooms,Kitchens,Standalone Building,Wheelchair Accessible,Generator,Backup Water
+110270884,Apartment / Flat,05 August 2021,31 m²,R 9 516,R 174,Single Residential,1,Bachelor,1,1,No,No,No,No
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Facing,Wall,Window,Security,Street Address
+110270533,Apartment / Flat,Security Complex,05 August 2021,1 106 m²,170 m²,R 13 471,R 4 500,3,2.5,"Basin, Main en Suite, Guest Toilet, Bath, Shower, Toilet",1,"Open Plan, Laundry, Eye Level Oven, Extractor Fan, Granite Tops, Hob",Air Conditioner,1,Secure Parking,Sea,Plaster,Aluminium,Security Gate,"31 KE Masinga Road, North Beach"
+
+
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedroom,Bathrooms,Bathrooms,Kitchen,Lounge,Dining Room,Rooms,Garage,Parking,Facing,Security,Temperature Control
+110270304,Apartment / Flat,05 August 2021,138 m²,R 12 312,R 2 126,R 1 190,2.5,1,Guest Toilet,1,1,1,Air Conditioner,1,1,Sea,"Intercom, 24 Hour Access",1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Garage,Parking,Garden
+110269782,Apartment / Flat,05 August 2021,112 m²,R 12 277,R 2 482,R 680,No,2,2,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Lounges,Dining Rooms,Garage,Flatlet
+110269695,House,04 August 2021,464 m²,R 1 610,No,2,2,1,1,2,Yes
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Garage,Style,Facing,Roof,Wall,Floor,Security,Flatlet
+110229657,House,Suburban,24 July 2021,1 056 m²,Yes,3,1,"Bath, Shower",Granite Tops,1,Modern,South,Tile,Plaster,Tiled Floors,Perimeter Wall,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Flatlet,Street Address
+110272902,House,05 August 2021,1 190 m²,R 992,Yes,3,2,1,1,1,2,Yes,"99 Colwyn Road, Bluff"
+Listing Number,Type of Property,Listing Date,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Gardens,Pools,Security
+110182116,House,09 July 2021,3,2,1,1,1,1,1,1,1,"Totally Fenced, Burglar Bars, Safe"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Reception Rooms,Lounge,Dining Room,Family/TV Room,Entrance Hall,Garage,Parking,Parking,Parking,Garden,Security
+110271517,House,05 August 2021,710 m²,R 1 124,Yes,3,1.5,"Guest Toilet, En suite",1,1,1,1,1,1,1,5,5,,1,24 Hour Access
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bathrooms,Reception Rooms,Parking,Secure Parking
+108804335,House,05 August 2021,669 m²,Yes,4,3,1,Yes,6
+Listing Number,Type of Property,Listing Date,Levies,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges
+107522847,Apartment / Flat,22 May 2019,R 1 374,No,0.5,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Kitchen,Lounge,Parking
+110229570,Apartment / Flat,24 July 2021,1 015 m²,62 m²,R 13 226,R 1 050,R 100,No,2, , ,"Basin, Shower", ,"Breakfast Nook, Extractor Fan, Granite Tops, Washing Machine Connection, Under Counter Oven, Hob", ,2
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Garage,Garden,Street Address
+110269166,House,04 August 2021,1 563 m²,571 m²,R 1 936,Yes,6,5.5,1,"1.0 Kitchen(s),  + scullery, pantry.",1,1,2,1,2,"2.0 Garage(s), 1 x double
+1 x 3 tandem
+Space fo...",Yes,"38 St Pauls Avenue, Reservoir Hills"
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Flatlet,Street Address
+110247554,House,29 July 2021,7 367 m²,230 m²,R 2 050,Yes,4,"4.0 Bedroom(s),  Modern with new cupboards",2,"2.0 Bathroom(s),  Full - main en-suite (very mo...",1,"1.0 Kitchen(s),  Fully fitted, open plan and mo...",1,1,1,2,1,Yes,Yes,Yes,"263 Dr Hoosen Haffajee Road, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Office,Lounges,Dining Rooms,Garden,Flatlet,Street Address
+110271730,House,05 August 2021,1 800 m²,159 m²,R 1 052,Yes,6,"6.0 Bedroom(s),  With built in cupboards, 2 x a...",4.5,"4.5 Bathroom(s),  Separate toilet",1,"1.0 Kitchen(s),  Open plan",1,2,1,Yes,Yes,"62 Beaumont Road, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Office,Lounges,Dining Rooms,Garage,Garage,Parking,Garden,Flatlet,Street Address
+110267863,House,04 August 2021,980 m²,220 m²,R 1 100,Yes,3,2,"2.0 Bathroom(s),  Main en-suite",1,"1.0 Kitchen(s),  Fitted",1,1,1,2,"2.0 Garage(s), Double",1,Yes,Yes,"9 Frederick Avenue, Bluff"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bathrooms,Bathroom 1,Bathroom 2,Lounge,Dining Room,Garage,Security,Street Address
+110257791,Apartment / Flat,Ground Floor,Suburban,02 August 2021,129 m²,R 9 884,R 1 362,R 942,No,2, ,"Built-in Cupboards, King Bed", ,"Built-in Cupboards, King Bed",2,Full,"Full, En suite", , , ,Intercom," 3 SS DOVEHILL, 178 Currie Road, Musgrave"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Garden,Street Address
+110272033,Apartment / Flat,05 August 2021,59 m²,R 12 373,R 1 250,R 556,No,2,1,1,1,1,1,Yes,"80 Cromwell Road, Glenwood"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Domestic Rooms,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Street Address
+110257961,House,02 August 2021,1 191 m²,218 m²,R 460,Yes,2,"2.0 Bedroom(s),  Built in cupboards",1,"1.0 Bathroom(s),  Shower/bath",1,1,"1.0 Domestic Room(s),  Attached to garage",1,1,1,1,Yes,"2 Stott Road, Bluff"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bathrooms,Kitchen,Office/study,Domestic Rooms,Lounges,Lounge 1,Lounge 2,Lounge 3,Dining Room,Entrance Hall,Rooms,Garage,Garage 1,Garage 2,Garage 3,Garage 4,Parking,Garden,Pool,Security,Special Featuress,Special Features 1,Special Features 2,Flatlet,Street Address
+110266593,House,Double Storey,Suburban,04 August 2021,2 208 m²,Yes,5, , , , , ,3, , ,1,3, , , , , ,Patio,4, , , , ,10,Yes,Yes,"Alarm System, Intercom, Burglar Bars",2,Flatlet,Reception Rooms,Yes," 197 Lambert Road, Windermere"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Lounge,Dining Room,Entrance Hall,Rooms,Garage,Parking,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Street Address
+110257670,Apartment / Flat,Duplex,02 August 2021,5 173 m²,93 m²,R 9 624,R 945,R 600,Yes,3, , , ,1, , , , ,Patio, ,2,"Intercom, Burglar Bars",3,Built in Cupboards,"Hob, Stove",Security Doors," 3 SS Duplex Mews, 84 Kenyon Howden Road, Montclair"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Parking,Special Feature,Street Address
+110269474,Apartment / Flat,04 August 2021,59 m²,R 12 695,R 427,2,1,1,Lifts," South Beach Avenue, 33, 24 / OCEAN RIDGE, Point"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Reception Rooms,Garage,Street Address
+110258830,Apartment / Flat,02 August 2021,116 m²,1354 m²,R 1 440,R 1 000,R 1 000,2,fully tiled with built in cupboards and plenty ...,1,"bathroom includes a shower, bath and sink. was ...",1,1,"259 John Zikhali Road, Essenwood"
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Zoning,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Flatlet
+110265121,House,04 August 2021,696 m²,R 1 002,Yes,Single Residential,3,1,1,1,1,1,Yes
+
+
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bedroom 4,Bedroom 4,Bathrooms,Kitchen,Office/study,Domestic Rooms,Lounge,Dining Room,Entrance Hall,Rooms,Garage,Garage 1,Garage 2,Pool,Security,Special Features,Street Address
+110217952,House,Double Storey,Suburban,21 July 2021,726 m²,R 3 383,Yes,4, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,2, ,Study,1, , , ,Patio,2, , ,Yes,Intercom,Staff Quarters," 181 Venice Road, Morningside"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedroom,Bathrooms,Street Address
+110241444,Apartment / Flat,28 July 2021,39 m²,R 9 744,R 900,R 280,1,1,"183 Prince Street , Point"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bathrooms,Kitchen,Domestic Rooms,Lounge,Dining Room,Garage,Garage 1,Garage 2,Parking,Pool,Security,Special Featuress,Special Features 1,Special Features 2,Street Address
+110211025,House,Double Storey,Suburban,19 July 2021,1 393 m²,R 2 300,Yes,4, , , , ,2, ,1, , ,2, , ,8,Yes,Alarm System,2,Sun Lounge,Wine Cellar," ERF 8670 of DURBAN, 9 Wanless Road, Umbilo"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Street Address
+110240444,Apartment / Flat,Security Complex,28 July 2021,718 m²,233 m²,R 21 455,R 1 864,3,2,"Basin, Main en Suite, Shower, Toilet",1,"Open Plan, Extractor Fan, Granite Tops, Under Counter Oven, Hob",Air Conditioner,8,Secure Parking,"27 Musgrave Avenue, Musgrave"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Street Address
+110240428,Apartment / Flat,Security Complex,28 July 2021,718 m²,84 m²,R 23 798,R 672,2,2,1,"Open Plan, Extractor Fan, Granite Tops, Under Counter Oven, Hob",Air Conditioner,2,Secure Parking,"27 Musgrave Avenue, Musgrave"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Street Address
+110240424,Apartment / Flat,Security Complex,28 July 2021,86 m²,718 m²,R 3 063,R 688,2,2,"Basin, Main en Suite, Bath, Shower, Toilet",1,"Open Plan, Extractor Fan, Granite Tops, Under Counter Oven, Hob",Air Conditioner,2,Secure Parking,"27 Musgrave Avenue, Musgrave"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Street Address
+110240422,Apartment / Flat,Security Complex,28 July 2021,718 m²,125 m²,R 26 392,R 1 000,3,2,"Main en Suite, Bath, Shower, Toilet",1,"Extractor Fan, Granite Tops, Under Counter Oven, Hob",Air Conditioner,3,Secure Parking,"27 Musgrave Avenue, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Domestic Rooms,Reception Rooms,Dining Room,Other,Garage,Parking,Garden,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Special Features 5,Street Address
+110255223,House,02 August 2021,950 m²,R 801,3,"Bedroom 3 with ceiling fan, curtain rails, built-in cupboards and carpeted floors","Bedroom 2 with ceiling fan, curtain rails, built-in cupboards and carpeted floors","Main bedroom with en-suite bathroom, air conditioner, ceiling fan, curtain rails, built-in cupboards and carpeted floors",2,"Bathroom 1 with basin, bath and toilet",Bathroom 2 with basin and shower,Bathroom 3 with toilet,"Kitchen with tiled floors, granite tops, extractor fan and hob",1,1,"Open plan dining room with ceiling fan, curtain rails and vinyl flooring","Open plan living room with air conditioner, balcony, curtain rails and vinyl flooring",2,2,Garden with shed,"Security including 24 hour response, alarm, automatic gates, burglar bars, CCTV cameras, electric fence, electronic beams, intercom and security gates",5,Tiled roof,Face brick walls,Aluminium windows,Wall boundary,Exterior features including enclosed patio and water tank,"95 Clare Road, Sparks Estate"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Street Address
+110272698,House,05 August 2021,929 m²,R 1 019,No,3,1,1,1,1,1,1,1,2,Yes,"91 Mountain Rise, Carrington Heights"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Garden,Street Address
+110255726,Apartment / Flat,02 August 2021,1 185 m²,146 m²,R 12 979,R 1 882,R 1 502,No,2,2,1,1,1,1,1,1,Yes,"295 Currie Road, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms,Garden,Security,Special Feature,Street Address
+110174655,Apartment / Flat,07 July 2021,3 062 m²,82 m²,R 11 951,R 1 320,R 660,No,1,1.5,1,Washing Machine Connection,1,1,Yes,"Security Gate, Intercom, 24 Hour Access",Wood Ceilings,"720 Stephen Dlamini Road, Morningside"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Domestic Rooms,Lounges,Dining Rooms,Parking,Street Address
+110262727,House,03 August 2021,940 m²,R 600,Yes,3,2,1,1,1,1,6,"379 Queen Elizabeth Avenue, Manor Gardens"
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Temperature Control,Street Address
+110267554,House,04 August 2021,848 m²,3,2.5,1,2,1,1,4,Air Conditioning Unit," Roslyn Avenue, Sydenham"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Lounge,Parking,Security,Street Address
+110266679,House,Single Storey,04 August 2021,357 m²,R 434,No,3, , , ,1, , ,3,"Security Gate, Burglar Bars"," 26 Fairydene Avenue, Riverdene"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Pool,Street Address
+110204049,House,16 July 2021,787 m²,R 1 503,Yes,3,2,"Basin, Main en Suite, Bath, Shower, Toilet",1,"Extractor Fan, Under Counter Oven, Hob",6,Yes,"40 Palm Grove, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Street Address
+110239280,Apartment / Flat,27 July 2021,4 710 m²,77 m²,R 12 857,R 2 114,R 734,No,2,1,1,1,1,3,"48 Bellevue Road, Musgrave"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Dining Room,Parking,Special Features,Street Address
+110219165,Apartment / Flat,Second floor and above,Coastal/Beach,21 July 2021,130 m²,R 17 308,R 4 000,R 2 500,No,Yes,2, , ,2, , , ,2,Walk in Closet," 401 The Quays, 31 Signal Road, Point Waterfront"
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garden,Street Address
+110232362,House,26 July 2021,187 m²,110 m²,R 449,Yes,3,1,1,1,1,Yes,"93 Alabama Road, Austerville"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bedroom 6,Bedroom 6,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Bathroom 4,Bathroom 5,Bathroom 6,Bathroom 7,Kitchen,Office/study,Lounge,Dining Room,Family/TV Rooms,Family/TV Room 1,Family/TV Room 2,Entrance Hall,Parking,Parking 1,Parking 2,Garden,Garden,Pool,Outbuildings,Outbuilding 1,Outbuilding 1,Outbuilding 2,Outbuilding 2,Size of Outbuildings,Style,Roof,Wall,Window,Standalone Building,Security,Special Features,Flatlet,Flat Description,Street Address
+110218242,House,21 July 2021,949 m²,470 m²,R 5 120,Yes,49 %,6,"Tiled Floors, Built-in Cupboards","Tiled Floors, Air Conditioner, Built-in Cupboards","Tiled Floors, Fan, Built-in Cupboards","Carpets, Balcony, Built-in Cupboards, Queen Bed","Wooden Floors, Balcony, Built-in Cupboards, King Bed",Master Suite,"Carpets, Balcony, Built-in Cupboards, Walk-in-closet, King Bed",7,"Tiled Floors, Full, Main en Suite, Bath, Shower, Double Basin","Tiled Floors, Basin, Shower, Toilet","Tiled Floors, Full, Shower","Tiled Floors, Basin, Bath, Toilet","Tiled Floors, Shower, Toilet and Basin","Tiled Floors, Shower, Toilet and Basin",Guest Toilet,"Open Plan, Dishwasher Connection, Granite Tops, Wooden Floors, Centre Island, Gas Hob",Wooden Floors,"Patio, Wooden Floors, Fireplace, Open Plan","Patio, Wooden Floors, Open Plan",2,"Patio, Wooden Floors, Air Conditioner","Patio, Wooden Floors, Air Conditioner",Wooden Floors,2,"Carport, Double","Carport, Double",Koi Pond in the front entrance to the home,"Courtyard, Immaculate Condition, Landscaped, Lighting",Heated,2,"2 bedroom, 2 bathroom",Flatlet,"1bedroo,. 1 bathroom",Flatlet,220 m²,Traditional,Tile,Plaster,Wood,Yes,"Electric Garage, Electric Gate, Alarm System, 24 Hour Response, Electric fencing, Perimeter Wall","Jacuzzi, Paveway, Balcony, Special Doors, Totally Walled",Yes,"2 bedroom, 2 bathroom; 1bedroo,. 1 bathroom"," 72 Sir Arthur Road, Morningside"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Kitchen,Office/study,Lounges,Lounge 1,Lounge 2,Dining Room,Braai Room,Entrance Hall,Rooms,Pool,Security,Special Featuress,Special Features 1,Special Features 2,Street Address
+110234335,House,Single Storey,26 July 2021,979 m²,R 1 600,No,3, , , ,2, ,"Eye Level Oven, Hob", ,2, , , , , ,Patio,Yes,"Security Gate, Burglar Bars",2,2x Granny Flats,Burglar Alarm," 725 Bluff Road, Grosvenor"
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Rates and Taxes,Bedroom,Bedroom,Bathrooms,Bathrooms,Reception Rooms,Street Address
+110257728,Apartment / Flat,02 August 2021,58 m²,R 1 192,R 600,1,"Ample Bic, En-Suite Bathroom",1,"BIC, sink, toilet, bathtub",1,"99 Seventh Avenue, Essenwood"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bathrooms,Kitchens,Kitchen 1,Kitchen 1,Kitchen 2,Kitchen 2,Lounges,Lounge 1,Lounge 1,Lounge 2,Lounge 2,Dining Room,Entrance Hall,Entrance Hall,Rooms,Garage,Garage,Parking,Parking 1,Parking 2,Parking 3,Parking 4,Parking 5,Garden,Security,Street Address
+110152417,House,01 July 2021,526 m²,R 763,Yes,5, , , , , ,2,2, ,"Breakfast Nook, Scullery, Extractor Fan, Fridge", ,"Breakfast Nook, Scullery, Extractor Fan, Fridge",2, ,Tiled Floors, ,Tiled Floors, , ,Tiled Floors,Patio, ,Single,5,Secure Parking,Secure Parking,Secure Parking,Secure Parking,Secure Parking,Yes,"Alarm System, Intercom"," 88 Belmont Road, Kenville"
+
+
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Dining Room,Garage,Special Feature,Street Address
+110268099,Apartment / Flat,04 August 2021,118 m²,R 10 763,R 1 200,R 333,2,2,Main en Suite,1,1,1,Balcony," 180 BEREA ROAD, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Domestic Rooms,Lounges,Dining Rooms,Parking,Garden,Pool,Flatlet,Street Address
+110241685,House,28 July 2021,900 m²,R 1 333,Yes,4,3,2,1,1,1,1,Yes,Yes,Yes,"55 Garcin Place, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Domestic Rooms,Garage,Outbuildings,Outbuilding 1,Outbuilding 2,Style,Facing,Roof,Wall,Special Features
+110274451,House,05 August 2021,694 m²,R 850,Yes,3,"Wooden Floors, Blinds, Built-in Cupboards","Wooden Floors, Blinds, Built-in Cupboards","Wooden Floors, Blinds, Built-in Cupboards",3,"Tiled Floors, Main en Suite, Shower, Blinds, Double Basin, Toilet","Tiled Floors, Basin, Blinds, Double Basin, Toilet","Tiled Floors, Basin, Bath, Blinds, Toilet","Eye Level Oven, Extractor Fan, Tiled Floors, Blinds, Built-in Cupboards, Hob",1,Single,2,Staff Quarters/Domestic Rooms,Teenpad,Contemporary,Below Road,Tile,Plaster,Balcony
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Age,Pets Allowed,Bedroom,Bathroom,Kitchen,Office/study,Lounge,Dining Rooms,Garage,Parking,Garden,Standalone Building,Security,Nearby Public Transport,Wheelchair Accessible,Street Address
+110250260,Apartment / Flat,30 July 2021,1 000 m²,110 m²,R 6 818,R 1 500,R 300,41,No,"Carpets, Curtain Rails, Built-in Cupboards","Tiled Floors, Shower, Curtain Rails, Bath, Toilet and Basin","Stove (Oven & Hob), Washing Machine Connection, Tiled Floors, Built-in Cupboards","Carpets, Curtain Rails","Carpets, Curtain Rails",1,"Electric Door, Single",Visitors Parking,Communal,No,"Totally Fenced, Electric Garage, Electric Gate, Burglar Bars, Electric fencing","Bus, Minibus Taxi",No," 10 Newton lane, Glenwood"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Age,Bedroom,Bathrooms,Reception Rooms,Street Address
+110251642,Apartment / Flat,30 July 2021,49 m²,R 9 796,R 1 618,R 230,1992,1,1,1,"20 Helen Joseph Road, Glenwood"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Reception Rooms,Dining Room,Other,Garage,Parking,Garden,Pool,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Special Features 5,Special Features 6,Flatlet
+110265317,House,04 August 2021,743 m²,R 1 000,Yes,3,"Main bedroom with en-suite bathroom, air conditioner, ceiling fan, curtain rails, built-in cupboards and tiled floors","Bedroom 2 with ceiling fan, built-in cupboards and tiled floors","Bedroom 3 with air conditioner, ceiling fan, built-in cupboards and tiled floors",2.5,"Bathroom 1 with basin, shower, toilet and tiled floors","Bathroom 2 with basin, bath and tiled floors","Kitchen with ceiling fan, tiled floors, melamine finishes, dish-wash machine connection, eye-level oven, hob and walk-in pantry",2,"Dining room with ceiling fan, curtain rails, sliding doors and laminate wood floors",Storeroom with concrete,2,2,Garden with low maintenance,Swimming pool,Security including automatic gates,6,Tiled roof,Face brick / plastered walls,Wood windows,Fence / vibracete boundary,"Exterior features including braai, patio, staff accommodation, trampoline, undercover patio and washing line",Manual irrigation,Yes
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Reception Rooms,Dining Room,Other,Other 1,Other 2,Garage,Parking,Garden,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Street Address
+110180759,House,09 July 2021,946 m²,270 m²,2,"Bedroom 2 with air conditioner, built-in cupboards, queen bed and tiled floors","Main bedroom with air conditioner, built-in cupboards, queen bed and tiled floors",1.5,Bathroom 2 with basin and toilet,"Bathroom 1 with basin, shower and toilet","Kitchen with tiled floors, granite tops, breakfast nook, dish-wash machine connection, extractor fan and oven and hob",2,Open plan dining room with air conditioner and tiled floors,2,Open plan living room 1 with tiled floors,Living room 2 with tiled floors,2,1,Landscaped garden,"Security including 24 hour response, alarm, automatic gates, burglar bars and electronic beams",4,Tiled roof,Plastered walls,Aluminium windows,Palisade fence / vibracete boundary,"38 Windham Avenue, Bellair"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Rooms,Garage,Garden,Pool,Facing,Roof,Wall,Window,Floor,Security,Temperature Control,Temperature Control,Flatlet,Street Address
+110247530,House,Suburban,29 July 2021,805 m²,Yes,3,3,Bath,Laundry,Veranda,2,Yes,Yes,East,Tile,Plaster,Wood,Tiled Floors,Perimeter Wall,Temperature control features,Cooling Fans,Yes,"69 Botanic Ave, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Garden,Flatlet,Street Address
+110246574,House,29 July 2021,934 m²,R 1 400,No,4,3.5,1,1,1,1,1,2,Yes,Yes,"18 Glenara Road, Reservoir Hills"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathrooms,Bathrooms,Kitchen,Dining Room,Other,Parking,Security,Special Featuress,Special Features 1,Special Features 2,Street Address
+110260265,Apartment / Flat,03 August 2021,1 773 m²,105 m²,R 19 048,3,Main bedroom with built-in cupboards,Bedroom 2 with built-in cupboards,Bedroom 3 with built-in cupboards,2,Bathroom with basin and shower,,Kitchen with tiled floors,Dining room with tiled floors,Living room with tiled floors,2,24 hour manned security,2,Plastered walls,Aluminium windows,"3 Cutfield Place, Sherwood"
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Street Address
+110240998,Apartment / Flat,28 July 2021,96 m²,R 2 932,No,2, , ,2, , ,Intercom,4,2 Balconys,Automated Gates,1 Parking,24/7 Security," SS TIBER ISLAND, 39 Victoria Embankment Avenue, Durban Central"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,No Transfer Duty,Bedrooms,Bathrooms,Bathrooms,Kitchen,Rooms,Style,Security,Special Feature,Street Address
+110228669,Apartment / Flat,23 July 2021,75 m²,R 6 667,Yes,2,1,"Basin, Bath","Eye Level Oven, Dishwasher Connection, Under Counter Oven",TV Port,Modern,"Electric Gate, Guard House, Perimeter Wall",TV Antenna,"30 ACUTT Street, Durban Central"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Lounge,Dining Room,Garage,Parking,Parking,Parking,Flatlet
+110230613,House,25 July 2021,447 m²,160 m²,R 0,R 3 000,5,2,En suite,2,2,1,4,4,,Yes
+Listing Number,Type of Property,Listing Date,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bathroom,Kitchen,Kitchen,Lounge,Pool,Security,Special Features,Street Address
+110262896,Apartment / Flat,03 August 2021,R 1 181,R 594,No,2, ,Built-in Cupboards, ,Built-in Cupboards,"Bath, Shower", ,"Eye Level Oven, Hob", ,Yes,Security Gate,Carport," 214 SS WOODRIDGE, 176 Blamey Road, Montclair"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Pool
+110269734,Apartment / Flat,04 August 2021,125 m²,R 23 200,R 5 020,R 2 115,No,2,2,1,1,1,1,Yes
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Kitchen,Kitchen,Domestic Rooms,Lounge,Dining Room,Braai Room,Garage,Parking,Security,Street Address
+110210446,House,Single Storey,19 July 2021,584 m²,R 1 029,No,3, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,1, ,"Extractor Fan, Hob",1, , , , ,2,"Security Gate, Alarm System, Burglar Bars"," 56 Island View Road, Fynnland"
+Listing Number,Type of Property,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking
+110274371,Apartment / Flat,Coastal/Beach,05 August 2021,85 m²,R 19 882,R 1 200,R 1 000,No,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Bedrooms,Bathrooms,Kitchen,Lounge,Dining Room,Braai Room,Garage,Security,Special Feature,Street Address
+110229934,Apartment / Flat,24 July 2021,110 m²,R 11 773,R 2 857,2,1,1,1,1,1,1,"24 Hour Access, Electric fencing","Built in Braai, Balcony","193 Peter Mokaba Road, Morningside"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Special Levy,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage
+110272627,Apartment / Flat,05 August 2021,129 m²,R 10 039,R 1 362,R 846,R 942,No,2,2,1,1,1,1
+Listing Number,Type of Property,Description,Listing Date,Floor Size,Levies,Rates and Taxes,Bedroom,Bathrooms,Lounge,Street Address
+110246415,Apartment / Flat,Bachelor/Studio,29 July 2021,47 m²,R 2 174,R 406,1,1,1,"67 Dr Langalibalele Dube  Street, South Beach"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Age,Floor Number,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Lounge,Parking,Parking 1,Parking 2,Parking 3,Common Toilets,Number of floors,Nearby Public Transport
+110270557,Apartment / Flat,05 August 2021,2 050 m²,95 m²,R 11 263,R 1 200,R 700,27,2,2,"Tiled Floors, Built-in Cupboards, King Bed","Tiled Floors, Built-in Cupboards, King Bed","Tiled Floors, Common Toilet, Bath, Toilet and Basin","Breakfast Nook, Stove (Oven & Hob), Extractor Fan, Dishwasher Connection, Washing Machine Connection, Tiled Floors, Built-in Cupboards","Tiled Floors, Balcony",3,Secure Parking,Secure Parking,Shade net covered,1,2,"Bus, Minibus Taxi"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Kitchen,Lounge,Dining Room,Security,Street Address
+110224617,Apartment / Flat,Second floor and above,22 July 2021,712 m²,46 m²,R 11 848,R 1 200,No,2, ,Built-in Cupboards, ,1, ,"Eye Level Oven, Hob", , ,Intercom," 8 SS EMILIA COURT, 91 Hospital Road, South Beach"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms
+110269739,Apartment / Flat,04 August 2021,132 m²,R 10 682,R 1 450,R 700,No,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Flatlet,Street Address
+110233600,House,26 July 2021,1 241 m²,Yes,3,1,1,1,1,1,1,Yes,Yes,Yes,"26 Frederick Avenue, Fynnland"
+Listing Number,Type of Property,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bathrooms,Kitchen,Domestic Rooms,Lounge,Dining Room,Entrance Hall,Garage,Garage 1,Garage 1,Garage 2,Parking,Security
+110268994,Apartment / Flat,Suburban,04 August 2021,138 m²,R 12 283,R 1 654,R 1 304,Yes,2.5, ,Built-in Cupboards, ,"Built-in Cupboards, Walk-in-closet", ,1.5, ,1, , ,Entrance Hall,2, ,Tandem, ,1,"Security Gate, Alarm System, Intercom"
+Listing Number,Type of Property,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Dining Room,Parking,Street Address
+110268956,Apartment / Flat,Suburban,04 August 2021,102 m²,R 14 216,R 2 050,R 745,No,2, , ,1.5, , , ,1," 26 Hermanus, 314 Clark Road, Glenwood"
+Listing Number,Type of Property,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Kitchen,Kitchen,Domestic Rooms,Lounge,Dining Room,Entrance Hall,Rooms,Garage,Garage 1,Garage 1,Garage 2,Parking,Garden,Pool,Security,Street Address
+110268872,Apartment / Flat,Suburban,04 August 2021,180 m²,R 14 972,R 2 225,R 1 841,Yes,3, ,King Bed, ,"Built-in Cupboards, Double Bed", ,"Built-in Cupboards, Double Bed",3, ,"Breakfast Nook, Stove (Oven & Hob), Extractor Fan, Granite Tops",1, , , ,Patio,2, ,"Double, Electric Door", ,Single,Yes,Yes,"Security Gate, Alarm System, Intercom, Electric fencing"," Knightsbridge, 360 Stephen Dlamini Road, Essenwood"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Garage,Street Address
+110203000,Apartment / Flat,16 July 2021,87 m²,R 9 735,R 1 450,R 460,No,1,1,1," 50 Avon lea
+498 Che Guevara road, Bulwer"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Kitchen,Domestic Rooms,Lounge,Rooms,Garage,Parking,Pool,Flatlet,Street Address
+110210869,House,Freestanding,19 July 2021,945 m²,947 m²,R 975,No,3, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,1,Basic,1, ,Patio, ,1,Yes,Yes," 20 Pearce Road, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Bedrooms,Bathrooms,Garage
+110268077,House,04 August 2021,1 080 m²,250 m²,R 700,4,4,2
+
+
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Lounges,Parking
+110264341,Apartment / Flat,03 August 2021,146 m²,R 19 829,R 3 650,R 1 815,No,3,2,1,2
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Lounges,Dining Rooms,Garage,Parking
+110264336,Apartment / Flat,03 August 2021,89 m²,R 12 348,R 1 500,R 900,No,3,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Zoning,Bedrooms,Bathrooms,Kitchens,Secure Parking,Standalone Building,Nearby Public Transport,Internet Access,Wheelchair Accessible,Generator,Backup Water
+110266805,Apartment / Flat,04 August 2021,60 m²,R 23 000,R 2 100,R 850,No,Single Residential,2,1,1,1,No,"Bus, Minibus Taxi",Satellite,Yes,No,No
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Kitchen,Lounge,Dining Room,Garage,Garage 1,Garage 1,Garage 2,Garage 2,Parking,Security
+110266766,Apartment / Flat,Top Floor,Complex,04 August 2021,102 m²,R 14 216,R 2 050,R 745,Yes,2, ,Built-in Cupboards, ,Built-in Cupboards,2,Full,Guest Toilet, ,"Extractor Fan, Under Counter Oven, Hob", , ,2, ,Tandem, ,Tandem,1,"Intercom, Electric fencing"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bathrooms,Style,Wall,Floor,Security
+110270174,Apartment / Flat,05 August 2021,39 m²,R 7 641,R 938,R 200,1,Contemporary,Plaster,Tiled Floors,Guard House
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Reception Rooms,Dining Room,Other,Garage,Parking,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Street Address
+110133287,Apartment / Flat,25 June 2021,110 m²,R 7 955,R 2 979,2,"Bedroom 2 with ceiling fan, built-in cupboards and wood strip floors","Main bedroom with air conditioner, blinds, ceiling fan, built-in cupboards, walk-in dressing room and wood strip floors","Bathroom with basin, shower over bath, toilet and tiled floors",Kitchen with vinyl flooring and melamine finishes,2,Dining room with wood strip floors,"Living room with ceiling fan, enclosed balcony and wood strip floors",1,1,"Security including automatic gates, burglar bars, intercom and security gates",3,Flat roof,Plastered walls,Aluminium windows,"227 Helen Joseph Road, Glenwood"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms,Rooms,Garage,Floor,Security,Temperature Control,Special Feature,Internet Access
+110261781,House,04 August 2021,726 m²,101 m²,R 1 238,Yes,3,1.5,1,"Dishwasher Connection, Washing Machine Connection",1,1,"Patio, Balcony, Air Conditioner, Blinds, Curtain Rails, Internet Port, TV Port",2,Parquet Floors,"Electric Garage, Electric Gate, Security Gate, Alarm System, 24 Hour Response, Intercom, Burglar Bars, 24 Hour Access, Electric fencing",Cooling Fans,"Satellite Dish, Driveway, Paveway, Awning, Sliding Doors",Fibre
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Office/studies,Domestic Rooms,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Street Address
+110129377,House,24 June 2021,1 024 m²,398 m²,R 1 274,Yes,7,7,"7.0 Bathroom(s),  All en-suites - jet spa",2,"2.0 Kitchen(s),  Beautifully fitted",2,1,"1.0 Domestic Room(s),  Wooden hut",4,2,"0.0 Garage(s), Drive in with extra parking",3,Yes,Yes,"3A and B Highbury Road, Bluff"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Pool
+110264349,Apartment / Flat,03 August 2021,74 m²,R 11 824,R 1 200,R 720,No,2,2,1,1,1,2,Yes
+Listing Number,Type of Property,Description,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Bathroom 1,Bathroom 1,Bathroom 2,Kitchen,Domestic Rooms,Lounge,Lounge,Dining Room,Entrance Hall,Garage,Parking,Parking 1,Parking 2,Garden,Outbuilding,Security,Temperature Control,Special Features
+110261335,Apartment / Flat,Simplex,03 August 2021,139 m²,R 7 842,R 940,R 710,2,"Parquet Floors, Air Conditioner, Built-in Cupboards","Parquet Floors, Built-in Cupboards",1.5,Shower head,"Tiled Floors, Bath, Toilet and Basin","Tiled Floors, Guest Toilet","Granite Tops, Tiled Floors, Built-in Cupboards",1,used as 3rd bedroom,Parquet Floors,Open plan to kitchen,Tiled Floors,16sqm with separate storeroom,2,Open bay,Open bay,with nice flower beds,Staff Quarters/Domestic Rooms,"Electric Gate, Electric fencing",Air Conditioning Unit,Built in Braai
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Secure Parking,Garden,Pool,Facing,Roof,Window,Security,Special Feature,Street Address
+110142211,House,Double Storey,29 June 2021,931 m²,R 1 984,Yes,5,4,"Basin, Main en Suite, Guest Toilet, Bath, Shower, Toilet",1,"Open Plan, Extractor Fan, Granite Tops, Gas Hob, Under Counter Oven",Air Conditioner,2,4,2,Yes,Yes,Sea,Tile,Aluminium,"Alarm System, Burglar Bars","Built in Braai, Jacuzzi, Sauna","191 Dr Hoosen Haffajee Road, Bluff"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Pool,Street Address
+110176281,Apartment / Flat,Security Complex,08 July 2021,13 690 m²,67 m²,R 11 119,R 350,2,1,Shower,1,"Open Plan, Laundry, Under Counter Oven, Hob",Air Conditioner,2,Secure Parking,Yes,"115 Mountain Rise Street, Carrington Heights"
+Listing Number,Type of Property,Listing Date,Erf Size,Bedrooms,Bathrooms,Kitchens,Parking,Gardens
+109489641,House,08 January 2021,930 m²,10,4,4,6,1
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Kitchens,Kitchens,Domestic Rooms,Domestic Rooms,Lounges,Dining Rooms,Street Address
+110228494,House,23 July 2021,1 108 m²,R 850,Yes,2,"2.0 Bedroom(s),  plus room",1,1,"1.0 Kitchen(s),  Basic - no stove",1,"1.0 Domestic Room(s),  Renting out for R1500.00...",1,1,"834 Sarnia Road, Bellair"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Parking,Garden,Security,Street Address
+110223502,Apartment / Flat,22 July 2021,77 m²,R 14 286,R 1 200,R 1 300,2,1,"Basin, Shower, Toilet",1,"Under Counter Oven, Hob",3,Yes,Security Gate,"434 Lilian Ngoyi Road, Windermere"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Levies,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounge,Dining Room,Parking,Parking,Parking,Security,Security,Special Feature,Street Address
+110265712,House,04 August 2021,37 836 m²,55 m²,R 1 150,R 400,3,1,1,1,1,2,2,,1,"Security Gate, 24 Hour Access","Satellite Dish, Balcony","100 Tern Way, Woodhaven"
+
+
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Zoning,Bedroom,Bathrooms,Kitchens,Standalone Building,Nearby Public Transport,Wheelchair Accessible,Generator,Backup Water
+110258024,Apartment / Flat,02 August 2021,49 m²,R 13 878,R 785,R 402,Single Residential,0.5,1,1,No,Minibus Taxi,No,No,No
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Domestic Rooms,Reception Rooms,Dining Room,Other,Other 1,Other 2,Garage,Garden,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Special Features 5,Special Features 6,Flatlet,Street Address
+110149768,House,01 July 2021,759 m²,R 1 480,Yes,3,"Main bedroom with en-suite bathroom, air conditioner, built-in cupboards, double bed and tiled floors","Bedroom 2 with built-in cupboards, double bed and tiled floors","Bedroom 3 with built-in cupboards, double bed and tiled floors",2,"Bathroom 1 with basin, bath, shower and toilet","Bathroom 2 with basin, shower and toilet","Kitchen with tiled floors, granite tops, dish-wash machine connection, extractor fan and oven and hob",1,2,Open plan dining room with air conditioner and tiled floors,2,Open plan living room 1 with air conditioner and tiled floors,Open plan living room 2 with tiled floors,2,Garden,"Security including alarm, automatic gates, burglar bars, CCTV cameras, electric fence and security gates",6,Tiled roof,Plastered walls,Wood windows,Wall boundary,Exterior features including braai and courtyard,Manual irrigation,Yes,"196 Annet Drive, Reservoir Hills"
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garden,Flatlet
+109072360,House,04 August 2021,345 m²,125 m²,R 288,Yes,2,1,1,1,1,Yes,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Garden,Pool
+110122735,Apartment / Flat,23 June 2021,85 m²,R 19 882,R 933,No,2,2,1,1,1,1,Yes,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Rates and Taxes,Bedroom,Bathrooms,Kitchen,Lounge,Parking,Garden,Pool,Roof,Security
+110256692,Apartment / Flat,02 August 2021,49 m²,R 13 265,R 550,1,1,1,1,1,1,1,Concrete,"Intercom, 24 Hour Access, Electric fencing"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Garden
+110269165,Apartment / Flat,04 August 2021,129 m²,R 9 690,R 1 362,R 1 115,Yes,2,2,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Office,Lounges,Dining Rooms,Parking
+110255195,Apartment / Flat,02 August 2021,1 104 m²,84 m²,R 10 417,R 1 022,R 490,Yes,2,1.5,1,1,1,1,2
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Parking
+110268760,Apartment / Flat,04 August 2021,67 m²,R 7 388,R 2 085,R 252,No,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bedroom 4,Bedroom 4,Bathrooms,Kitchen,Domestic Rooms,Lounge,Dining Room,Entrance Hall,Rooms,Garage,Parking,Garden,Security,Special Features,Flatlet,Street Address
+110152179,House,01 July 2021,783 m²,R 931,Yes,4, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,1, ,1, , , ,Patio, ,10,Yes,"Security Gate, Alarm System, Burglar Bars",Braai Area,Yes," 21 Carolina Crescent, Woodlands"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchen,Kitchen,Lounge,Lounge,Dining Room,Dining Room,Parking,Street Address
+110250504,Apartment / Flat,Second floor and above,Suburban,30 July 2021,1 456 m²,44 m²,R 11 364,R 1 200,R 557,No, ,1, ,Open Plan, ,Tiled Floors, ,Tiled Floors,"Secure Parking, Single"," 41 SS CRYSTAL PALACE, 515 Felix Dlamini Road, Overport"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Domestic Rooms,Domestic Rooms,Lounges,Dining Rooms,Garage,Garden,Pool,Pool,Street Address
+110152642,House,01 July 2021,700 m²,176 m²,Yes,3,"3.0 Bedroom(s),  1 with built in cupboards",1,"1.0 Bathroom(s),  Full",1,"1.0 Kitchen(s),  Fitted and dated",1,"1.0 Domestic Room(s),  Room with shower",1,1,2,Yes,Yes,Splash pool,"49 Grenville Road, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Parking,Garden,Street Address
+110265311,House,04 August 2021,1 066 m²,R 796,Yes,3,1,"Basin, Shower, Toilet",1,"Laundry, Stove",1,Secure Parking,Yes,"85 Rif Road, Westridge"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking
+107261775,Apartment / Flat,04 March 2019,103 m²,R 14 078,R 1 800,R 467,No,2,2,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking,Pool
+110254430,Apartment / Flat,01 August 2021,95 m²,R 9 368,R 1 408,R 1 408,No,2,2,1,1,1,Yes
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchens,Domestic Rooms,Lounges,Dining Room,Family/TV Rooms,Entrance Halls,Parking,Parking 7,Parking 8,Parking 9,Parking 10,Pools,Outbuildings,Outbuilding 1,Outbuilding 2,Facing,Roof,Wall,Security,Temperature Control
+110249488,House,Multi Storey,30 July 2021,1 339 m²,R 7 000,6,5,1,2,2,Open Plan,1,1,10,Undercover,Undercover,Undercover,Undercover,1,2,Staff Quarters/Domestic Rooms,Staff Quarters/Domestic Rooms,East,Tile,Plaster,"Electric Gate, Burglar Bars",Air Conditioning Unit
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Domestic Rooms,Lounges,Dining Rooms,Parking,Street Address
+110206049,House,17 July 2021,377 m²,R 867,Yes,3,1,1,1,1,1,4,"15 Laurel road, Glenwood"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Garage,Street Address
+110185587,Apartment / Flat,10 July 2021,90 m²,R 15 211,R 1 819,R 709,2,1,1,1,"30 Valley View Road, Morningside"
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Zoning,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms,Rooms,Garage,Garage,Parking,Parking
+110211250,Apartment / Flat,19 July 2021,895 m²,148 m²,R 14 189,R 1 950,R 1 024,No,General Residential,3,"3.0 Bedroom(s),  2 with fitted cupboards, carpe...",1.5,"1.5 Bathroom(s),  main - shower, toilet, basin
+...",1,"1.0 Kitchen(s),  fully fitted",1,1,Balcony,1,"1.0 Garage(s), lock up",1,"1.0 Parking(s),  open"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounges,Dining Rooms,Other,Garage,Gardens,Outbuilding,Security,Temperature Control,Flatlet,Street Address
+110215256,House,20 July 2021,1 394 m²,R 2 433,4,2,"Breakfast Nook, Open Plan, Extractor Fan, Tiled Floors, Under Counter Oven, Hob",1,1,Balcony,2,1,Granny flat,Totally Fenced,"Air Conditioning Unit, Cooling Fans",Yes," 9 Wanless Road, Umbilo"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Reception Rooms,Lounge,Entrance Hall,Garage,Parking,Facing,Security,Special Feature
+110211575,Apartment / Flat,19 July 2021,3 584 m²,95 m²,R 16 737,R 1 177,R 762,2,1,1,1,1,1,1,1,Sea,Intercom,Satellite Dish
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Street Address
+109973679,House,13 May 2021,570 m²,R 1 650,Yes,6,3,1,1,1,1,6,Yes,Yes,"33 Frere Crescent, Glenwood"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking,Garden,Pool
+110257104,Apartment / Flat,02 August 2021,74 m²,R 18 243,R 1 000,R 1 000,No,2,2,1,1,1,1,Yes,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Office,Domestic Rooms,Reception Rooms,Garage,Pool,Flatlet,Street Address
+110164052,House,05 July 2021,3 781 m²,386 m²,R 2 319,Yes,4,4.5,1,1,3,3,Yes,Yes,"193 Doctor Hoosen Haffajee Road, Bluff"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bathrooms,Kitchens
+110272026,Apartment / Flat,05 August 2021,39 m²,R 8 205,R 915,R 205,No,1,1
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Garden,Pool,Street Address
+110157014,House,02 July 2021,384 m²,R 1 011,Yes,4,1,"Basin, Shower, Toilet",1,"Extractor Fan, Under Counter Oven, Hob",1,Yes,Yes,"62 Steelcastle Avenue, Castlehill"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Lounges,Dining Rooms,Parking,Garden,Pool
+110254325,Apartment / Flat,Retirement Living,01 August 2021,2 595 m²,60 m²,R 16 583,R 12 000,R 5 000,No,1,1,1,1,1,Yes,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Age,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Parking,Garden,Pool,Wall,Floor,Street Address
+110177011,Apartment / Flat,08 July 2021,2 517 m²,76 m²,R 10 461,R 2 500,R 530,39,No,2,1,Bath,Laundry,1,Yes,Yes,Face-brick,Tiled Floors,"35 Brand Road, Glenwood"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Family/TV Room,Rooms,Garage,Parking,Garden,Pool,Style,Facing,Roof,Wall,Window,Floor,Security,Security,Temperature Control,Temperature Control,Special Feature,Street Address
+110109065,House,Suburban,18 June 2021,931 m²,400 m²,R 2 356,Yes,4,3,"Basin, Guest Toilet, Bath","Breakfast Nook, Open Plan, Scullery, Laundry, Extractor Fan, Dishwasher Connection, Granite Tops, Under Counter Oven",Family TV Room,"Blinds, TV Port, Veranda",1,1,Yes,Yes,"Contemporary, Modern",East,Insulation,"Plaster, Concrete","Aluminium, Double Glazed","Tiled Floors, Laminated Floors",Security,"Electric Gate, Electric fencing, Perimeter Wall",Temperature control features,Cooling Fans,Built in Braai,"40 Rippon Crescent, Sherwood"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bathroom,Kitchen,Kitchen,Lounge,Lounge,Dining Room,Dining Room,Garage,Garage,Parking,Garden,Security,Street Address
+110258115,Apartment / Flat,Ground Floor,Complex,02 August 2021,R 2 373,R 894,No,2, ,"Built-in Cupboards, King Bed", ,"Built-in Cupboards, Double Bed","Bath, Shower, Double Basin", ,"Dishwasher Connection, Granite Tops, Washing Machine Connection, Under Counter Oven", ,"Wooden Floors, Balcony, Blinds", ,"Wooden Floors, Blinds", ,Single,Secure Parking,Yes,"Security Gate, Intercom, Burglar Bars"," 2 Apsley Court, 443 Musgrave Road, Essenwood"
+Listing Number,Type of Property,Listing Date,Floor Size,Levies,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounge,Parking,Street Address
+110247071,Apartment / Flat,29 July 2021,71 m²,R 1 678,R 512,2,1,1,1,1,"348  Sarnia Road, Sea View"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Rates and Taxes,Bedroom,Bathrooms,Kitchen,Reception Rooms,Lounge,Dining Room,Entrance Hall,Rooms,Garage,Parking,Security
+110257780,Apartment / Flat,02 August 2021,3 180 m²,90 m²,R 9 889,R 448,1.5,1,1,1,1,1,1,Patio,1,1,"Intercom, 24 Hour Access"
+Listing Number,Type of Property,Listing Date,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Dining Rooms,Parking
+110095125,Apartment / Flat,15 June 2021,R 5 650,No,2,2,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Garden
+110267853,Apartment / Flat,04 August 2021,904 m²,69 m²,R 9 783,R 700,R 400,No,1.5,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Garden,Street Address
+110214645,House,20 July 2021,690 m²,R 2 500,Yes,10,11,"Main en Suite, Bath, Shower, Toilet",1,"Extractor Fan, Under Counter Oven, Hob",3,Yes,"194 Lena Ahrens Road, Bulwer"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedroom,Bathroom,Kitchen,Reception Rooms,Other,Parking
+110056761,Apartment / Flat,04 June 2021,48 m²,R 13 750,R 1 946,R 500,"Main bedroom with en-suite bathroom, built-in cupboards and tiled floors","Bathroom with basin, bath and toilet",Kitchen with tiled floors and melamine finishes,1,Living room with tiled floors,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Lounge,Dining Room,Other,Parking,Parking 1,Parking 2,Garden,Pool,Security,Nearby Public Transport
+110252388,Apartment / Flat,30 July 2021,188 m²,R 6 649,R 4 146,R 1 500,3,"Carpets, Balcony, Air Conditioner, Built-in Cupboards","Wooden Floors, Balcony, Air Conditioner, Fan, Built-in Cupboards","Carpets, Balcony, Built-in Cupboards",3,"Tiled Floors, Shower, Toilet and Basin","Tiled Floors, Basin, Bath, Shower","Tiled Floors, Separate Toilet","Stove (Oven & Hob), Built-in Cupboards","Wooden Floors, Air Conditioner, Fan, Open Plan","Wooden Floors, Air Conditioner, Fan, Open Plan",Linen Room,2,"Carport, Secure Parking",Secure Parking,Communal,Communal Pool,"Electric Gate, 24 Hour Response, 24 Hour Access, Perimeter Wall","Bus, Minibus Taxi"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Lounge,Dining Room,Parking,Parking,Parking,Security,Special Feature
+110249760,Apartment / Flat,30 July 2021,1 545 m²,102 m²,R 12 696,R 2 150,R 1 075,2,1,1,1,2,2,,24 Hour Access,Balcony
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Coverage,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 4,Bedroom 5,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Bathroom 4,Domestic Rooms,Lounge,Dining Room,Family/TV Room,Garage,Garage 1,Garage 2,Garage 3,Parking,Parking 1,Parking 2,Parking 3,Parking 4,Parking 5,Parking 6,Garden,Pool,Outbuilding,Security,Temperature Control
+110252583,House,30 July 2021,3 035 m²,600 m²,R 1 460,19 %,5,en suite,"Tiled Floors, Air Conditioner, Curtain Rails, Built-in Cupboards, Queen Bed","Tiled Floors, Air Conditioner, Built-in Cupboards, Queen Bed","Tiled Floors, Air Conditioner, Built-in Cupboards, Queen Bed",en suite,"Tiled Floors, Air Conditioner, Built-in Cupboards, Queen Bed","Tiled Floors, Air Conditioner, Built-in Cupboards, Double Bed",3.5,"Tiled Floors, Shower, Bath, Toilet and Basin","Tiled Floors, Shower, Bath, Toilet and Basin","Tiled Floors, Shower, Toilet and Basin",Guest Toilet,1,"Carpets, Open Plan","Carpets, Air Conditioner, Open Plan","Carpets, Air Conditioner",3,"Double, Electric Door",Single,Double,6,"Carport, Secure Parking","Carport, Secure Parking",Secure Parking,Secure Parking,Secure Parking,Secure Parking,"Courtyard, Immaculate Condition","Fenced, Chlorinator",Staff Quarters/Domestic Rooms,"Totally Fenced, Electric Gate, Security Gate, Alarm System, 24 Hour Response, Intercom, Closed Circuit TV, Burglar Bars, Outdoor Beams",Air Conditioning Unit
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathroom,Kitchen,Lounge,Garage,Style,Facing,Roof,Wall,Window,Standalone Building,Security,Temperature Control,Special Features,Nearby Public Transport
+110262348,Apartment / Flat,Second floor and above,"Casino Estate, Suburban",03 August 2021,8 114 m²,81 m²,R 8 765,R 1 205,R 406,No,3,"Tiled Floors, Built-in Cupboards, Double Bed","Tiled Floors, Built-in Cupboards, Double Bed","Tiled Floors, Built-in Cupboards, Double Bed","Tiled Floors, Full","Open Plan, Tiled Floors, Built-in Cupboards","Tiled Floors, Open Plan","Roll up, Single",Open Plan,Above Road,Tile,Concrete,Wood,No,Electric Gate,Cooling Fans,Lifts,"Bus, Train, Minibus Taxi"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Floor Number,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Lounge,Security,Special Features
+110252592,Apartment / Flat,30 July 2021,90 m²,R 13 333,R 1 912,R 700,5,3,2nd bedroom,"Tiled Floors, Built-in Cupboards, Double Bed, Single Bed, Twin Bed",main bedroom,"Tiled Floors, Built-in Cupboards, Double Bed, Queen Bed",3rd bedroom,"Tiled Floors, Open Plan, Built-in Cupboards, Single Bed, Twin Bed",2,"Tiled Floors, Full, Basin, Main en Suite, Shower, En suite, Shower, Toilet and Basin, Toilet","Tiled Floors, Full, Basin, Main en Suite, Shower, Shower, Toilet and Basin, Toilet","Open Plan, Stove, Extractor Fan, Tiled Floors, Built-in Cupboards","Tiled Floors, Balcony, Open Plan","Electric Gate, Security Gate, Intercom, Closed Circuit TV, 24 Hour Access, Guard House, Guard, Perimeter Wall",Lifts
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedroom,Bathrooms,Bathrooms,Kitchens,Kitchens,Street Address
+110247397,Apartment / Flat,Security Complex,29 July 2021,891 m²,75 m²,R 7 333,R 1 382,R 230,1,1,"Basin, Bath, Shower, Toilet",1,"Extractor Fan, Hob","37 Joseph Nduli Street, Durban Central"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage,Pool
+110247101,Apartment / Flat,29 July 2021,80 m²,R 18 750,R 1 350,R 1 002,Yes,2,2,1,1 Lounge,1,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Parking
+110245825,Apartment / Flat,29 July 2021,98 m²,R 13 255,R 846,No,2,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Lounges,Dining Rooms,Garage
+110244663,Apartment / Flat,28 July 2021,1 970 m²,54 m²,R 12 500,R 1 585,R 460,No,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bathroom,Kitchen,Lounge,Parking,Security,Street Address
+108973513,Apartment / Flat,09 July 2021,73 m²,R 9 521,R 2 333,R 350,1.5,"Wooden Floors, Double Bed","Wooden Floors, Built-in Cupboards, Double Bed","Bath, Toilet and Basin","Wooden Floors, Hob",Wooden Floors,On Street Parking,"Security Gate, Intercom, Closed Circuit TV, Burglar Bars"," 67 Victoria Embankment Avenue, Durban Central"
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Office,Reception Rooms,Lounge,Dining Room,Family/TV Room,Entrance Hall,Rooms,Garage,Garden,Pool,Security,Temperature Control,Flatlet
+110249282,House,Double Storey,30 July 2021,984 m²,287 m²,R 2 844,Yes,5,3,"Guest Toilet, En suite",1,1,1,2,1,1,1,Air Conditioner,2,1,1,Alarm System,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Special Levy,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Garden
+110224531,Apartment / Flat,22 July 2021,1 292 m²,46 m²,R 12 935,R 1 540,R 687,R 465,No,1,1,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges
+110266769,Apartment / Flat,04 August 2021,53 m²,R 7 925,R 1 251,R 136,No,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking
+110267340,Apartment / Flat,04 August 2021,122 m²,R 16 385,R 2 568,R 1 390,No,2,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking
+110273017,House,05 August 2021,573 m²,191 m²,R 1 077,No,3,2.5,1,1,1,1,2
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Parking
+110252870,Apartment / Flat,30 July 2021,54 m²,R 10 185,R 1 200,No,1,1,1,1,1,1
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Bathroom 3,Kitchen,Domestic Rooms,Reception Rooms,Parking,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3,Special Features 4,Special Features 5,Flatlet,Street Address
+110091441,House,14 June 2021,773 m²,424 m²,R 1 002,3,"Bedroom 3 with air conditioner, built-in cupboards and tiled floors","Bedroom 2 with air conditioner, built-in cupboards and parquet floors","Main bedroom with air conditioner, built-in cupboards and parquet floors",2.5,Bathroom 1 with basin and tiled floors,"Bathroom 2 with shower over bath, toilet and tiled floors","Bathroom 3 with basin, shower, toilet and tiled floors","Kitchen with tiled floors, granite tops, breakfast bar, dish-wash machine connection, extractor fan, glass hob and under counter oven",1,2,8,"24 hour manned security including 24 hour response, alarm, automatic gates, burglar bars, CCTV cameras, electric fence and intercom",5,Tiled roof,Plastered walls,Aluminium windows,Fence / palisade fence / vibracete / wall boundary,Exterior features including artificial lawn,Yes,"320 Mountbatten Drive, Reservoir Hills"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Zoning,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms,Rooms,Parking,Parking,Garden,Street Address
+110149038,Apartment / Flat,Retirement Living,30 June 2021,10 590 m²,94 m²,R 29 787,R 15 000,R 1 900,No,General Residential,2,"2.0 Bedroom(s),  main bedroom -BICS, en suite, ...",2,"2.0 Bathroom(s),  shower, toilet, basin, wheel ...",1,"1.0 Kitchen(s),  kitchenette, BICS",1,1,Balcony,1,"1.0 Parking(s),  covered",Yes,"211 St Thomas Road, Musgrave"
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Street Address
+110161030,Apartment / Flat,Security Complex,05 July 2021,4 360 m²,130 m²,R 14 577,R 2 680,R 1 700,2,2,"Basin, Bath, Shower, Toilet",1,"Extractor Fan, Granite Tops, Under Counter Oven, Hob","41 Snell Parade, South Beach"
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Garden,Wall,Window,Security,Street Address
+110148673,Apartment / Flat,Simplex,Security Complex,30 June 2021,895 m²,148 m²,R 13 514,R 1 950,R 1 024,3,1.5,"Basin, Shower, Toilet",1,"Laundry, Extractor Fan, Under Counter Oven, Hob",Air Conditioner,2,Secure Parking,Yes,Plaster,Aluminium,"Security Gate, Alarm System, Burglar Bars","49 Norfolk Road, Essenwood"
+
+
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Reception Rooms,Dining Room,Other,Parking,Security,Special Featuress,Special Features 1,Special Features 2
+110096700,Apartment / Flat,15 June 2021,4 380 m²,R 5 740,2,"Bedroom 2 with air conditioner, ceiling fan, built-in cupboards and carpeted floors","Main bedroom with en-suite bathroom, air conditioner, ceiling fan, built-in cupboards and carpeted floors",2,"Bathroom 2 with basin, bath, shower, toilet and tiled floors","Bathroom 1 with basin, bath, toilet and tiled floors","Kitchen with ceiling fan, tiled floors, granite tops, dish-wash machine connection and under counter oven",1,Dining room with tiled floors,Living room with tiled floors,2,"Complex security including automatic gates, intercom and security gates",2,Aluminium windows,Wall boundary
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Lounges,Dining Rooms,Parking,Pool
+110250900,Apartment / Flat,30 July 2021,126 m²,R 15 754,R 2 365,R 1 980,No,2,2.5,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Garden
+110239637,Apartment / Flat,27 July 2021,891 m²,75 m²,R 7 667,R 994,R 204,No,1.5,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Garage
+110262636,House,03 August 2021,914 m²,229 m²,R 3 800,5,4,1,2
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Street Address
+110178727,Apartment / Flat,08 July 2021,100 m²,R 8 750,R 615,R 490,No,2,1,1,1,1,2,"523 Bluff Road, Bluff"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounges,Dining Rooms,Garage,Gardens,Security,Temperature Control
+110267570,Apartment / Flat,04 August 2021,2 933 m²,99 m²,R 9 596,R 575,R 800,3,1,"Tiled Floors, Built-in Cupboards",1,1,1,1,"Totally Fenced, Electric Gate, Security Gate, Burglar Bars",Cooling Fans
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Lounges,Dining Rooms,Garage
+110244682,Apartment / Flat,28 July 2021,1 507 m²,250 m²,R 11 000,R 2 000,R 2 500,No,3,3,1,1,1
+Listing Number,Type of Property,Description,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bedrooms,Bedrooms,Bathroom,Bathroom,Kitchen,Lounges,Dining Room,Entrance Hall,Parking,Security,Special Features
+110248121,Apartment / Flat,Simplex,29 July 2021,117 m²,R 7 692,R 510,R 800,3,"oregon floors, high ceilings",Built-in Cupboards,modern (toilet inside),Jacuzzi Bath,"Eye Level Oven, Granite Tops, Built-in Cupboards, Hob",1,modern self contained,porcelain tiles - lounge diningroom kitchen,under cover - driveway 4 to 5 cars,"Totally Fenced, Electric Gate, Burglar Bars",front & back paved area. Level ground
+Listing Number,Type of Property,Lifestyle,Listing Date,Floor Size,Price per m²,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchen,Parking,Parking,Style,Facing,Wall,Window,Floor,Security
+110253273,Apartment / Flat,"Suburban, Waterfront",31 July 2021,89 m²,R 10 056,R 750,No,2,1,Shower,Laundry,Parking features,Carport,Contemporary,"East, Sea",Plaster,Aluminium,"Tiled Floors, Parquet Floors","Electric Gate, Intercom, Perimeter Wall"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bathrooms,Kitchens,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Parking,Garden,Pool
+110252442,House,30 July 2021,2 754 m²,300 m²,R 1 200,Yes,Yes,4,4,1,1,1,1,1,2,5,Yes,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Pets Allowed,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Office,Domestic Rooms,Reception Rooms,Garage,Street Address
+110247386,House,29 July 2021,947 m²,Yes,4,Spacious bedrooms with modern built in cupboards.,3,Full walk in closet and main ensuite for the ma...,1,1,2,1,"67 Nugget Road, Reservoir Hills"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Reception Rooms,Parking,Secure Parking,Security,Special Feature,Street Address
+108487277,House,25 February 2020,609 m²,R 1 300,3,2,"Basin, Bath, Shower, Toilet",1,"Eye Level Oven, Extractor Fan, Hob",1,4,1,"Alarm System, Burglar Bars",Built in Bar,"24 Henwood Road, Windermere"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Parking
+110263645,Apartment / Flat,03 August 2021,57 m²,R 15 351,R 800,R 511,No,2,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Zoning,Bedroom,Bathrooms,Kitchens,Parking,Parking,Pool,Standalone Building,Internet Access,Wheelchair Accessible,Generator,Backup Water
+110239118,Apartment / Flat,27 July 2021,145 m²,R 15 862,R 3 710,R 1 700,No,Single Residential,3.5,2,1,2,Visitor parking,Yes,No,Fibre,No,No,No
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Age,Bedrooms,Bedrooms,Bathrooms,Bathrooms,Reception Rooms,Pool,Street Address
+110223868,Apartment / Flat,22 July 2021,75 m²,2350 m²,R 383,R 1 100,R 400,1995,3,Light and airy comfortable bedrooms. Nice cupbo...,1,"Large bathroom with shower, tiled. Ample space ...",1,Yes,"97 Bristow Crescent, Bonela"
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Garden,Pool,Flatlet
+110260646,House,03 August 2021,938 m²,R 2 700,No,4.5,2,1,2,1,4,2,Yes,Yes,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,No Transfer Duty,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges
+110260493,Apartment / Flat,03 August 2021,41 m²,R 13 415,R 735,Yes,R 373,No,0.5,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Bathrooms,Parking,Parking,Style,Floor
+110245596,Apartment / Flat,29 July 2021,56 m²,R 9 286,R 1 182,R 400,No,1,1,Bath,Parking features,Carport,Contemporary,Tiled Floors
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Style,Facing,Floor
+110266872,Apartment / Flat,04 August 2021,95 m²,R 12 105,R 2 400,No,2,1,Shower,Conventional,Sea,Parquet Floors
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Pool
+110247670,Apartment / Flat,29 July 2021,118 m²,R 10 127,R 1 950,R 1 055,No,2,2,1,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Bedrooms,Bathrooms
+110262940,House,03 August 2021,300 m²,40 m²,3,1
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bedroom 4,Bedroom 4,Bathrooms,Kitchen,Kitchen,Lounge,Dining Room,Braai Room,Entrance Hall,Rooms,Garage,Garage 1,Garage 2,Parking,Pool,Security,Street Address
+110137526,House,Freestanding,28 June 2021,1 077 m²,300 m²,R 1 636,No,4, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,1, ,"Eye Level Oven, Hob", , , , ,Patio,2,Tandem, ,4,Yes,"Security Gate, Alarm System, Burglar Bars"," 80 Dr Hoosen Haffajee Road, Brighton Beach"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Lounges,Dining Rooms,Garage,Parking,Garden
+110233390,House,26 July 2021,1 172 m²,151 m²,R 960,No,6,5,2,2,1,1,3,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage
+110234343,Apartment / Flat,26 July 2021,116 m²,R 11 164,R 1 117,R 536,2,2,1,1 Lounge,1
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Parking,Garden,Pool
+110232701,Apartment / Flat,26 July 2021,880 m²,70 m²,R 15 714,R 1 200,R 650,No,1,1,1,1,1,Yes,Yes
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bedroom 4,Bedroom 5,Bedroom 5,Bathrooms,Kitchen,Kitchen,Office/study,Domestic Rooms,Lounge,Dining Room,Braai Room,Rooms,Garage,Garage 1,Garage 2,Parking,Garden,Security,Special Features
+110258274,House,Freestanding,Suburban,02 August 2021,1 285 m²,R 1 611,Yes,5, ,"Built-in Cupboards, King Bed", ,"Built-in Cupboards, Double Bed", ,"Built-in Cupboards, Double Bed", , ,"Built-in Cupboards, Double Bed",4, ,"Breakfast Nook, Stove (Oven & Hob), Granite Tops", ,1, , , ,Patio,2, , ,10,Yes,"Security Gate, Alarm System, Intercom, Burglar Bars, Electric fencing",Granny Flat
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Bedrooms,Bathrooms,Kitchen,Lounges,Dining Rooms,Parking,Gardens,Security,Temperature Control
+110256585,House,02 August 2021,1 002 m²,R 293,3,1,"Under Counter Oven, Hob",1,1,"Carport, Double",1,"Electric Gate, Alarm System",Air Conditioning Unit
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Office,Domestic Rooms,Lounges,Dining Rooms,Garage,Pool
+110257854,House,02 August 2021,1 089 m²,R 1 385,Yes,3,2,1,1,1,1,1,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Dining Room,Special Featuress,Special Features 1,Special Features 2,Street Address
+110169489,Apartment / Flat,06 July 2021,81 m²,R 14 198,R 992,R 650,No,2, , ,1, , , ,2,Covered Parking,BIC," 14 Ridgeview Heights, 111 Peter Mokaba Road, Musgrave"
+
+
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Rates and Taxes,Pets Allowed,Furnished,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bedroom 4,Bedroom 5,Bedroom 6,Bedroom 7,Bedroom 8,Bedroom 9,Bedroom 10,Bathrooms,Kitchen,Entrance Hall,Rooms,Parking,Pool,Security,Special Featuress,Special Features 1,Special Features 2,Special Features 3
+110266347,House,Guesthouse,Suburban,04 August 2021,2 044 m²,1467 m²,R 14 000,Yes,Yes,10, , , , , , , , , , ,10, , ,Patio,10,Yes,"Security Gate, Alarm System, Intercom, Electric fencing",3,Aircon,"Furnished, Sold with all fixtures and fittings",Fully equipped industrial kitchen
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Coverage,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathrooms,Bathroom 1,Bathroom 2,Kitchen,Lounge,Dining Room,Garage,Parking,Style,Facing,Roof,Wall
+110258605,House,02 August 2021,974 m²,R 900,Yes,100 %,3,"Tiled Floors, Built-in Cupboards","Tiled Floors, Built-in Cupboards","Tiled Floors, Built-in Cupboards",2,"Bath, Toilet and Basin","Bath, Toilet and Basin","Extractor Fan, Granite Tops, Tiled Floors, Built-in Cupboards, Under Counter Oven, Hob","Tiled Floors, Balcony",Tiled Floors,Double,Double,Modern,Above Road,Tile,Plaster
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Rooms,Garage,Parking,Garden,Pool,Style,Facing,Roof,Wall,Window,Special Feature
+110263610,House,03 August 2021,1 115 m²,R 2 257,Yes,4,2,"Basin, Main en Suite, Guest Toilet, Bath, Shower, Toilet",1,"Gas Hob, Under Counter Oven",Patio,1,1,Yes,Yes,Split Level,Sea,Tile,"Plaster, Face-brick",Wood,"Built in Braai, Communal braai area"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Garage
+110238647,Apartment / Flat,27 July 2021,102 m²,R 11 520,R 1 200,R 800,No,2,2,1
+Listing Number,Type of Property,Listing Date,Erf Size,Levies,Special Levy,Rates and Taxes,Furnished,Bedrooms,Bathrooms,Kitchens,Garage,Parking,Gardens,Pools
+110256939,House,02 August 2021,116 m²,R 1 425,R 0,R 647,Yes,3,2,1,Single,2,1,1
+Listing Number,Type of Property,Description,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bedroom 3,Bathroom,Kitchen,Dining Room,Family/TV Room,Garage,Outbuilding,Facing,Roof,Wall,Window,Flatlet
+110274433,House,Freestanding,05 August 2021,696 m²,R 1 029,Yes,3,"Parquet Floors, Built-in Cupboards","Parquet Floors, Built-in Cupboards","Parquet Floors, Built-in Cupboards","Tiled Floors, Full, Basin, Bath, Shower, Toilet","Eye Level Oven, Extractor Fan, Parquet Floors, Built-in Cupboards, Hob","Parquet Floors, Open Plan","Parquet Floors, Open Plan",Single,Granny flat,East,Tile,Plaster,"Wood, Aluminium",Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Lounges,Garage
+110239617,Apartment / Flat,27 July 2021,1 531 m²,81 m²,R 11 049,R 1 595,R 550,No,1,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Pets Allowed,Zoning,Bedroom,Bathrooms,Kitchens,Garage,Parking,Secure Parking,Standalone Building,Wheelchair Accessible,Generator,Backup Water
+110260867,Apartment / Flat,03 August 2021,71 m²,R 12 606,R 1 958,No,Single Residential,1.5,1,1,1,Visitor parking,1,No,No,No,No
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Garage,Parking,Gardens,Pools
+110268540,House,04 August 2021,4 000 m²,R 550,Yes,3,1,1,6,1,1
+Listing Number,Type of Property,Description,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Street Address
+110064611,Apartment / Flat,Duplex,Security Complex,10 June 2021,2 071 m²,143 m²,R 11 888,R 1 850,R 325,Yes,3,2,"Basin, Bath, Shower, Toilet",1,"Laundry, Extractor Fan, Granite Tops, Under Counter Oven, Hob",1,"148 Silverton Road, Musgrave"
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms
+110262253,Apartment / Flat,03 August 2021,141 m²,R 19 149,R 3 040,R 1 200,No,3,2,1,"1.0 Kitchen(s),  Fitted",1,1
+Listing Number,Type of Property,Lifestyle,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Bathrooms,Kitchens,Kitchens,Garage,Parking,Garden,Facing,Wall,Window,Security,Street Address
+110138553,Apartment / Flat,Security Complex,28 June 2021,596 m²,129 m²,R 10 465,R 1 362,R 900,2,2,"Basin, Main en Suite, Guest Toilet, Bath, Shower, Toilet",1,"Laundry, Granite Tops, Under Counter Oven, Hob",1,Secure Parking,Yes,Sea,Plaster,Aluminium,Security Gate,"178 Currie Road, Musgrave"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Age,Bedroom,Bathrooms,Kitchen,Parking,Parking,Pool,Style,Facing,Floor,Security,Special Feature
+110256675,Apartment / Flat,02 August 2021,9 072 m²,44 m²,R 19 318,13,1,1,"Open Plan, Laundry, Granite Tops, Under Counter Oven",Parking features,Carport,Yes,"Contemporary, Modern",East,Tiled Floors,"Electric Gate, Closed Circuit TV, Guard House, Perimeter Wall",Built in Braai
+Listing Number,Type of Property,Listing Date,Erf Size,Rates and Taxes,Pets Allowed,Bedrooms,Bathrooms,Bathrooms,Kitchens,Lounge,Dining Room,Rooms,Parking,Parking,Parking,Garden,Security,Special Feature
+110263286,House,03 August 2021,379 m²,R 420,Yes,3,2,"Main en Suite, Guest Toilet",1,1,1,Air Conditioner,4,Covered Parking,Shade net parking,Yes,"Security Gate, Alarm System, Intercom","Built in Braai, Paveway"
+
+
+Listing Number,Type of Property,Description,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 2,Bathrooms,Kitchen,Lounge,Dining Room,Entrance Hall,Garage,Security
+110232144,Apartment / Flat,Second floor and above,26 July 2021,117 m²,R 11 068,R 1 398,R 1 023,No,2, , ,1, , , , , ,Intercom
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Lounges,Dining Rooms
+110256882,Apartment / Flat,02 August 2021,57 m²,R 6 123,R 820,R 147,No,1,1,1,1
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage,Garden
+110234772,Apartment / Flat,26 July 2021,160 m²,R 10 313,R 1 990,R 976,3,3,1,1 Lounge,2,Yes
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Pets Allowed,Bedrooms,Bedroom 1,Bedroom 1,Bedroom 2,Bedroom 2,Bedroom 3,Bedroom 3,Bathrooms,Bathrooms,Bathrooms,Kitchen,Kitchen,Lounge,Lounge,Dining Room,Entrance Hall,Entrance Hall,Garage,Garage 1,Garage 1,Garage 2,Parking,Security,Street Address
+110171154,Apartment / Flat,07 July 2021,1 324 m²,152 m²,R 11 513,No,3, ,Built-in Cupboards, ,Built-in Cupboards, ,Built-in Cupboards,2,,Shower, ,"Granite Tops, Gas Hob", ,Laminated Floors, , ,"Spacious, Staircase",2, ,Double, ,1,Electric fencing," 5 SS SOUTHMOORE, 577 Che Guevara Road, Bulwer"
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge
+110234644,Apartment / Flat,26 July 2021,98 m²,98 m²,R 14 031,R 3 608,R 877,2,1,1,1 Lounge
+
+
+Listing Number,Type of Property,Listing Date,Erf Size,Floor Size,Price per m²,Levies,Rates and Taxes,Bedrooms,Bathrooms,Reception Rooms,Lounge,Garage,Parking,Parking,Garden
+110258301,Apartment / Flat,02 August 2021,73 m²,73 m²,R 16 438,R 1 561,R 550,2,1,1,1 Lounge,1,1,Uncovered parking,Yes
+Listing Number,Type of Property,Listing Date,Floor Size,Price per m²,Levies,Rates and Taxes,Pets Allowed,Bedroom,Bathrooms,Kitchens,Kitchens,Lounges,Dining Rooms,Parking,Parking
+110245767,Apartment / Flat,29 July 2021,141 m²,R 30 142,R 3 210,R 1 200,No,3.5,3,1,"1.0 Kitchen(s),  Open Plan Designer",1,1,1,"1.0 Parking(s),  Under Cover"
